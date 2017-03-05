@@ -4,8 +4,10 @@
 ### <a name="about_me">About me</a>
 
 After 7 years of mapping the North Sea and other hydrographic jobs, I decided to drop the anchor and buy a restaurant in the Canary Island.  
-After a year things didnt't went as expected so I sold everything and took a gap year in Thailand with my girlfriend.  
+
+Things didnt't went as expected so, a year later, I sold everything and took a gap year in Thailand with my girlfriend.  
 When we finally decided it was about time to do something, we headed for the British Isles where I found this gem which is Makers Academy and learned I am a born-to-be developer with exceptional interests on producing (not just working but also) high quality code.  
+
 My next step will be landing a job in company which mostly shares the Makers Academy ethics (Agile, SOLID, pair programming, TDD, open minded, diversity welcome) and I can't wait to see how these models fit in a professional environment!  
 ***  
 ### Skills
