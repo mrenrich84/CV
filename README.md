@@ -9,6 +9,27 @@ When we finally decided it was about time to do something, we headed for the Bri
 My next step will be landing a job in company which mostly shares the Makers Academy ethics (Agile, SOLID, pair programming, TDD, open minded, diversity welcome) and I can't wait to see how these models fit in a professional environment!  
 ***  
 ### Skills
+fast problem solver
+curious / good at trying new techniques +1
+enthusiasm/passion +2
+thorough testing +2
+care for details
+happy feedback receiver
+hawk eye
+understanding code
+used to work under pressure
+used to highly professional environments
+
+FROM NCS:
+Learning and Technology
+Working with Others
+Creating and Innovating
+Showing Energy and Drive
+Analysing and Problem Solving
+Planning and Focusing on Quality
+Handling Change and Pressure
+Leading and Taking Responsibility
+Persuading and Communicating
 
 #### Manager
 
