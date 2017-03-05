@@ -120,6 +120,14 @@ IT Administrator
 **IZI srl, Rome** (06-2008 – 08-2010)
 Surveyor assistant*  
 
+***  
+### <a name="interests">Interests</a>
+
+Computer gaming, programming and all that is geek!  
+Music, photography and videomaking  
+Traveling  
+Sports: football, surf, american football  
+
 ***
 
 ### <a name="contact">Contact</a>
