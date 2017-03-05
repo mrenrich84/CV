@@ -137,3 +137,4 @@ Sports: football, surf, american football
 - Codewars https://www.codewars.com/users/mrenrich84
 
 DELETE ME: https://docs.google.com/document/d/15sAiLO_rd9l5v-rMPttamrOhk6F1SnUtyLnuzvbQ1PI/edit
+MA CV notes https://github.com/makersacademy/jobhunters/blob/master/cv_github_template.md
