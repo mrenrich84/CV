@@ -79,7 +79,7 @@ I like to guess on motivation behind behaviour of people and I always push in fi
 A list of people I'm used to "feel breathing over my shoulders" includes clients rep from BP, Shell, Statoil and Dong Energy.  
 I learnt being comfortable in participating at meetings with such gents and/or overwatching the delivery of the final product to them  - organizing data usually based on client standard and completoing with reports on work methodology and results.  
 
-#### High responsability 
+#### High responsibility 
 I am used to spend weeks in oil rigs safety zones - where any incident has an high risk of stopping oil production at least or catastrofic losses at worse - and be responsible for the positioning of Remotely Operated Vehicle and divers in underwater operations, near structures or in open seas.  
 
 Furthermore, I guided the deploy of features on empty seabeds or near installments and I found myself once in the position of redesigning the route of a flexible riser (a pipeline to platform connector).  
