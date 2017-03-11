@@ -11,11 +11,12 @@ When we finally decided it was about time to do something, we headed for the Bri
 My next step will be landing a job in company which mostly shares the Makers Academy ethics (Agile, SOLID, pair programming, TDD, open minded, diversity welcome) and I can't wait to see how these models fit in a professional environment! 
 
 I can probably express myself at best in an environment which:
-- values "doers": people who work hard and who enjoy having something to show for their efforts,
+- values "doers": people who work hard, get passionate at their tasks and enjoy having something to show for their efforts,
 - embraces creativity, innovation and independence of thought,
 - emphasyse on delivering at high standards,
-- management spends good effort on team building,
-- new challenges comes everyday. 
+- has manager that spends good effort on team building,
+- has an easy going office culture,
+- comes with new challenges everyday. 
 
 ***  
 ### Skills
@@ -32,47 +33,58 @@ This helped me developing an eye for code and the ability to quickly understand 
 Also, my general interest for the tech world helped me fill up holes in knowledge in different occasions.
 
 #### Curious and fast learner
-I am a naturally curious person very happy to vary in normal life and this reflects in my programming experience.  
-Before this course, for fun, I had given myself some tasks and learned how to accomplish them in Linux, Perl, Python or VBA, i.e..  
+I am a curious person very happy to vary and explore in normal life and this reflects in my programming experience.  
+Years before this course, for fun, I had given myself some tasks and learned how to accomplish them in Linux, Perl, Python or VBA, i.e..  
 This pleasure in changings developed an ability in me to quickly learn new tools and the way they work.  
 
 #### Creative and innovator
 I am a creative person that is always happy to walk new path and find new method to accomplish task.  
-When I see a problem, I cannot stop my mind in pitching new solutions.  
+When I see a problem, I cannot stop my mind in pitching solutions.  
 
 #### Enthusiastic and passionated
 I can be very passionated at the task I have been given, striving to deliver my best product.  
 Where I have seen others shy away from difficulties, I mostly take the challenge and push to overcome obstacles.  
 
 #### Thorough testing and attention to detail
-During Makers Academy I learned about "beautiful code" and I falled in love with it: my mission as a coder become to deliver the most "beatiful code" possible, meaning code that works, is SOLID and it can be almost read as plain English.  
+During Makers Academy I learned about and falled in love with "beautiful code".  
+My mission as a coder become to deliver the most "beatiful code" possible, meaning code that is:
+- clear: code reads almost as plain English and it's flow can be quickly followed and understood;
+- elegant: code algorithms are neat and efficient at the same time;
+- malleable: code welcomes changes and extensions.
 
 TDD was another revelation and I cannot think about surviving in this world without it.  
 
 #### Numbers freak
-I love statistics, data and playing with in general.  
+A good part of hydrographic surveying involves filtering data on statistic models (Standard Deviation and 95% confidence as basic examples).  
+Within it, I found out how keen I am on statistics, data and playing with it in general.  
 
 #### Happy feedback receiver
-For personal reason, I learned to deeply reflect on feedback given to me, even strong ones, and always try to get lessons from any situation I could live - there is always one.  
+I learned to positively receive feedback, even strong ones, deeply reflecting on them.  
+I am also naturally open to find lessons from any experience - there is always one.  
 
-I like to guess on motivation behind behaviour of people and I always push in finding solutions to happily share this world with everyone, friends, colleagues and strangers, whenever possible.  
+#### Easy going colleague (NEED TO FIND A BETTER HEADER)
+I like to guess on motivation behind behaviour of people and I always push in finding solutions to happily share this world with everyone, family, friends, colleagues and strangers, whenever possible.  
 
 #### Used to highly professional and stressfull environments
 My 7 years offshore were mostly flying somewhere in the world, get on new vessels and know new people, new systems, new organizations, new projects.  
-My shifts onboard were 6/6 or 12/12, 12 hours a shift, 7 days of week, usually 4 weeks.  
+My shifts onboard were 6am-6pm or 12-12 or viceversa, 7 days a week, usually 4 weeks on/off.  
 
-List of clients rep I'm used to have behind my shoulders includes BP, Shell, Statoil and Dong Energy.  
-I learnt being  comfortable in participating at meeting with these clients or in having people around me reminding the cost of stopping or delaying operations - which was usually starting at tens of thousands per day.  
+List of clients rep I'm used to "feel breathing behind my shoulders" includes BP, Shell, Statoil and Dong Energy.  
+I learnt being comfortable in participating at meetings with such gents and/or overwatching the delivery of the final product to them (organized data complete with reports).  
+Quite a few times I had managers around me reminding the cost of stopping or delaying operations - which usually was starting at tens of thousands per day.  
 
-I am used to spend weeks in the oil rigs safety zones - where any incident has an high risk of stopping oil production at least or catastrofic losses at worse - and be responsible for the positioning of Remotely Operated Vehicle and divers in underwater operations, near structures or in open seas.  
-I was at Gannett Alpha in August 2011 overwatching the biggest oil leak of North Sea!  
+I am used to spend weeks in oil rigs safety zones - where any incident has an high risk of stopping oil production at least or catastrofic losses at worse - and be responsible for the positioning of Remotely Operated Vehicle and divers in underwater operations, near structures or in open seas.  
+But also guide the deploy of features on the seabed and I found myself once in the position of redesigning the route of a flexible riser.  
+
+I was at Gannett Alpha in August 2011 overwatching the biggest oil leak of North Sea.  
   
-All of these wasn't stressfull but cool and challenging!  
+All of these was more cool and challenging than stressfull - such a great adventure!  
+Apart the last one, obviously...
 
 #### Empathy with management "humans"
 Owning a restaurant for a year gave me some good insights on how difficult can managers life be.
-Trying to be a "good" boss while constantly making choices and have to deal with their consequences, developed in myself a sympathy for business runners.  (QUESTA E' DA GUARDARE) 
-sad
+Trying to be a "good" boss while constantly making choices and have to deal with their consequences (sometimes not happy), developed in myself a sympathy for business runners.
+
 ***  
 ### <a name="projects">Projects & Code</a>
 
