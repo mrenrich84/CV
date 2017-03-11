@@ -11,16 +11,16 @@ When we finally decided it was about time to do something, we headed for the Bri
 My next step will be landing a job in company which mostly shares the Makers Academy ethics (Agile, SOLID, pair programming, TDD, open minded, diversity welcome) and I can't wait to see how these models fit in a professional environment!  
 ***  
 ### Skills
-fast problem solver
-curious / good at trying new techniques +1
-enthusiasm/passion +2
-thorough testing +2
-care for details
-happy feedback receiver
-hawk eye
-understanding code
-used to work under pressure
-used to highly professional environments
+#### fast problem solver
+#### curious / good at trying new techniques +1
+#### enthusiasm/passion +2
+#### thorough testing +2
+#### care for details
+#### happy feedback receiver
+#### hawk eye
+#### understanding code
+#### used to work under pressure
+#### used to highly professional environments
 
 FROM NCS:
 Learning and Technology
@@ -32,6 +32,50 @@ Planning and Focusing on Quality
 Handling Change and Pressure
 Leading and Taking Responsibility
 Persuading and Communicating
+
+***  
+### <a name="projects">Projects & Code</a>
+
+***  
+### Education
+
+#### Makers Academy (03/01/2017 to end_date)
+
+- Curiosity and hungry passion for code
+- Independent learner and problem-solver
+- OOP, TDD, SOLID, MVC, DDD
+- Software Craftsmanship
+- Ruby, Rails, Javascript, Node.js, Angular.js
+- Rspec, Jasmine, Mocha
+
+
+#### CFPE Petroselli (2003)
+
+- Principles of Web Developing and Marketing: Networking, ASP, Access, MS Active Directory, Javascript, some marketing and e-marketing concepts
+- Grade: wasn't aged for the course so I couldn't partecipate to the exams!!!
+
+#### J.J. Rousseau High School (2001)
+
+- Community Leader (comparable to GCE Advanced / GCSE A-C / BTEC Level 3 D-ED)
+- Studies covered humanistic sciences, giving the alumn basic knowledge for taking a leading position in any kind of social community, from business to public to NGOs
+- Mark: 77/100 
+
+#### Any other qualifications
+IELTS: 7.5
+
+***  
+### Experience
+
+**Pizzeria da Fabbio** (09-2014 - 08-2015)
+Restaurant Owner & Manager
+**Various Co. / Self Employed** (03-2008 – 2015)
+Hydrographic Surveyor
+**Geoteam srl, Rome** (06-2008 – 08-2010)
+IT Administrator
+**Microbusiness srl, Rome**	(01-2007 – 03-2008)
+IT Administrator
+**IZI srl, Rome** (06-2008 – 08-2010)
+Surveyor assistant*  
 
 #### Manager
 
@@ -77,50 +121,6 @@ During 2008 at Geoteam SRL, Italy, I worked as an IT admin where I:
 Worked in 2007 at Microbusiness SRL, Italy as an IT Technician with tasks of:
 - Onsite wireless / wired lan installation and configuration
 - Onsite assistance and technical support
-
-***  
-### <a name="projects">Projects & Code</a>
-
-***  
-### Education
-
-#### Makers Academy (03/01/2017 to end_date)
-
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
-
-
-#### CFPE Petroselli (2003)
-
-- Principles of Web Developing and Marketing: Networking, ASP, Access, MS Active Directory, Javascript, some marketing and e-marketing concepts
-- Grade: wasn't aged for the course so I couldn't partecipate to the exams!!!
-
-#### J.J. Rousseau High School (2001)
-
-- Community Leader (comparable to GCE Advanced / GCSE A-C / BTEC Level 3 D-ED)
-- Studies covered humanistic sciences, giving the alumn basic knowledge for taking a leading position in any kind of social community, from business to public to NGOs
-- Mark: 77/100 
-
-#### Any other qualifications
-IELTS: 7.5
-
-***  
-### Experience
-
-**Pizzeria da Fabbio** (09-2014 - 08-2015)
-Restaurant Owner & Manager
-**Various Co. / Self Employed** (03-2008 – 2015)
-Hydrographic Surveyor
-**Geoteam srl, Rome** (06-2008 – 08-2010)
-IT Administrator
-**Microbusiness srl, Rome**	(01-2007 – 03-2008)
-IT Administrator
-**IZI srl, Rome** (06-2008 – 08-2010)
-Surveyor assistant*  
 
 ***  
 ### <a name="interests">Interests</a>
