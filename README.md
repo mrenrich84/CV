@@ -19,33 +19,35 @@ I can probably express myself at best in an environment which:
 
 ***  
 ### Skills
-#### Fast problem solver, eagle eye and fast at understanding code
+#### Analythical thinker and fast problem solver
 I worked 7 years mostly on installing, configuring and fixing (faulty) equipment and/or IT infrastructure.  
-Also, it is more than 10 years that I'm coding for fun and more than that that I am geek fan.  
-All of this developed myself as a strongly analythical thinker, believing that events have alwas a logic cause. 
+This, plus 10 years of coding for fun, developed myself as a strong analythical thinker, naturally analizing events as driven by logic causes.   
 
-I taught myself to program and use UNIX environments, more than 10 years ago now, by picking up code and ideas on the web (StackOverflow, blogs, docs and man pages) or paper (O'Reilly).  
+This approach constantly helps me in quickly dissecting how things works, isolating processes and unearth connections, leading to quarantine problems and fastly #####################
+
+### Eagle eye and fast at understanding code
+I start teaching myself how to program and use UNIX environments more than 10 years ago now, by picking up code and ideas on the web (StackOverflow, blogs, docs and man pages) or paper (O'Reilly).  
 This helped me developing an eye for code and the ability to quickly understand what the code is doing.  
 
 Also, my general interest for the tech world helped me fill up holes in knowledge in different occasions.
 
 #### Curious and fast learner
-I am a naturally curious person which is very happy to vary in normal life and this reflects in my programming experience.  
+I am a naturally curious person very happy to vary in normal life and this reflects in my programming experience.  
 Before this course, for fun, I had given myself some tasks and learned how to accomplish them in Linux, Perl, Python or VBA, i.e..  
 This pleasure in changings developed an ability in me to quickly learn new tools and the way they work.  
 
 #### Creative and innovator
 I am a creative person that is always happy to walk new path and find new method to accomplish task.  
-When I see a problem, I cannot stop my mind in pitching new solutions to it.  
+When I see a problem, I cannot stop my mind in pitching new solutions.  
 
 #### Enthusiastic and passionated
 I can be very passionated at the task I have been given, striving to deliver my best product.  
 Where I have seen others shy away from difficulties, I mostly take the challenge and push to overcome obstacles.  
 
 #### Thorough testing and attention to detail
-During Makers Academy I learned about "beautiful code" and I falled in love with it.  
-I was a perfectionist before but now my mission as a coder become to deliver the most "beatiful code" possible: code that works, is SOLID and it can be almost read as plain English.  
-TDD was another revelation and I cannot think anymore about surviving without it.  
+During Makers Academy I learned about "beautiful code" and I falled in love with it: my mission as a coder become to deliver the most "beatiful code" possible, meaning code that works, is SOLID and it can be almost read as plain English.  
+
+TDD was another revelation and I cannot think about surviving in this world without it.  
 
 #### Numbers freak
 I love statistics, data and playing with in general.  
@@ -66,8 +68,11 @@ I am used to spend weeks in the oil rigs safety zones - where any incident has a
 I was at Gannett Alpha in August 2011 overwatching the biggest oil leak of North Sea!  
   
 All of these wasn't stressfull but cool and challenging!  
-  
 
+#### Empathy with management "humans"
+Owning a restaurant for a year gave me some good insights on how difficult can managers life be.
+Trying to be a "good" boss while constantly making choices and have to deal with their consequences, developed in myself a sympathy for business runners.  (QUESTA E' DA GUARDARE) 
+sad
 ***  
 ### <a name="projects">Projects & Code</a>
 
