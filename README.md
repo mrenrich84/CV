@@ -39,7 +39,8 @@ This pleasure in changings developed an ability in me to quickly learn new tools
 
 #### Creative and innovator
 I am a creative person that is always happy to walk new path and find new method to accomplish task.  
-When I see a problem, I cannot stop my mind in pitching solutions.  
+When I see a problem, I cannot stop my mind in pitching solutions and try some of them.  
+One of the reason I started coding was to automatise tasks, at work or in my private life.  
 
 #### Enthusiastic and passionated
 I can be very passionated at the task I have been given, striving to deliver my best product.  
