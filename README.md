@@ -72,7 +72,7 @@ Within it, I found out how keen I am on statistics, data and playing with it in 
 I learned to positively receive feedback, even strong ones, deeply reflecting on them.  
 I am also naturally open to find lessons from any experience - there is always one.  
 
-#### Easy going colleague (NEED TO FIND A BETTER HEADER!!!!!!!!!!!!!!!!!!!!!!)
+#### Empathic colleague
 I like to guess on motivation behind behaviour of people and I always push in finding solutions to happily share this world with everyone, family, friends, colleagues and strangers, whenever possible.  
 
 #### Used to highly professional and stressfull environments
@@ -90,8 +90,8 @@ Sorely, I was at Gannett Alpha in August 2011 overwatching the biggest oil leak 
 All of these was more cool and challenging than stressfull - such a great adventure!  
 Apart the last one, obviously...
 
-#### Empathy with management "humans"
-Owning a restaurant for a year gave me some good insights on how difficult can managers life be.
+#### Sympathy with management humans
+Owning a restaurant for a year gave me some good insights on how difficult can managers life be.  
 Trying to be a "good" boss while constantly making choices and have to deal with their consequences (sometimes not happy), developed in myself a sympathy for business runners.
 
 ***  
