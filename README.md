@@ -58,9 +58,9 @@ My mission as a coder become to deliver the most "beatiful code" possible, meani
 TDD was another revelation: I found it so beatiful and easy to code with tests on your side and I cannot think about surviving in this world without it.  
 
 #### Attention to detail
-I have been responsible of archiving file systems with no clear structure,s where naming where almost random and everything was messed up.  
+I had the unpleasent responsibility of archiving file systems with no clear structures, where naming where almost random and everything was messed up.  
 I worked on logs where colleagues were taking notes for themselves only (sometimes not even in English!).  
-I saw and appreciated companies that constrain everybody to work on defined standards.  
+I saw and appreciated companies that constrained everybody to work on defined standards.  
 
 Throguh these experiences, I learned the importance of being a details maniac and consider your colleagues while working on a project. 
 
