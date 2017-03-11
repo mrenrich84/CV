@@ -84,7 +84,7 @@ I am used to spend weeks in oil rigs safety zones - where any incident has an hi
 
 Furthermore, I guided the deploy of features on empty seabeds or near installments and I found myself once in the position of redesigning the route of a flexible riser (a pipeline to platform connector).  
 
-Sorely, I was at Gannett Alpha in August 2011 overwatching the biggest oil leak of North Sea.  
+Sorely, I was supporting divers operations at Gannett Alpha in August 2011 overwatching the biggest oil leak of North Sea.  
 
 #### Used to stressfull environments
 My 7 years offshore were mostly flying somewhere in the world, get on new vessels and know new people, new systems, new organizations, new projects.  
