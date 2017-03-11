@@ -14,7 +14,7 @@ I can probably express myself at best in an environment which:
 - values "doers": people who work hard, get passionate at their tasks and enjoy having something to show for their efforts,
 - embraces creativity, innovation and independence of thought,
 - emphasyse on delivering at high standards,
-- has manager that spends good effort on team building,
+- has management investing good effort on team building,
 - has an easy going office culture,
 - comes with new challenges everyday. 
 
