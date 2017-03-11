@@ -76,7 +76,7 @@ I am also naturally open to find lessons from any experience - there is always o
 I like to guess on motivation behind behaviour of people and I always push in finding solutions to happily share this world with everyone, family, friends, colleagues and strangers, whenever possible.  
 
 #### High professionality
-A list of clients rep I'm used to "feel breathing over my shoulders" includes BP, Shell, Statoil and Dong Energy.  
+A list of people I'm used to "feel breathing over my shoulders" includes clients rep from BP, Shell, Statoil and Dong Energy.  
 I learnt being comfortable in participating at meetings with such gents and/or overwatching the delivery of the final product to them (organized data usually based on client standard complete with reports).  
 
 #### High responsability 
