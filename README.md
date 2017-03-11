@@ -13,17 +13,17 @@ My next step will be landing a job in company which mostly shares the Makers Aca
 I can probably express myself at best in an environment which:
 - values "doers": people who work hard and who enjoy having something to show for their efforts,
 - embraces creativity, innovation and independence of thought,
-- are emphasyse on delivering at high standards,
-- management is focused on team building,
+- emphasyse on delivering at high standards,
+- management spends good effort on team building,
 - new challenges comes everyday. 
 
 ***  
 ### Skills
 #### Analythical thinker and fast problem solver
-I worked 7 years mostly on installing, configuring and fixing (faulty) equipment and/or IT infrastructure.  
+I have 8 years of experience on installing, configuring and fixing equipment and/or IT infrastructure.  
 This, plus 10 years of coding for fun, developed myself as a strong analythical thinker, naturally analizing events as driven by logic causes.   
 
-This approach constantly helps me in quickly dissecting how things works, isolating processes and unearth connections, leading to quarantine problems and fastly #####################
+This approach constantly helps me in quickly dissecting how things works, isolating processes and unearth connections, leading to quarantine issues and promptly solve them.  
 
 ### Eagle eye and fast at understanding code
 I start teaching myself how to program and use UNIX environments more than 10 years ago now, by picking up code and ideas on the web (StackOverflow, blogs, docs and man pages) or paper (O'Reilly).  
@@ -111,9 +111,10 @@ Restaurant Owner & Manager
 **Various Co. / Self Employed** (03-2008 – 2015)
 Hydrographic Surveyor
 **Geoteam srl, Rome** (06-2008 – 08-2010)
+Hydrographic Surveyor
 IT Administrator
 **Microbusiness srl, Rome**	(01-2007 – 03-2008)
-IT Administrator
+IT Technician
 **IZI srl, Rome** (06-2008 – 08-2010)
 Surveyor assistant*  
 
