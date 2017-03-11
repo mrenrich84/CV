@@ -86,7 +86,7 @@ Furthermore, I guided the deploy of features on empty seabeds or near installmen
 
 Sorely, I was supporting divers operations at Gannett Alpha in August 2011 overwatching the biggest oil leak of North Sea.  
 
-#### Used to stressfull environments
+#### Thrives under pressure
 My 7 years offshore were mostly flying somewhere in the world, get on new vessels and know new people, new systems, new organizations, new projects.  
 My shifts onboard were 6am-6pm or 12-12 or viceversa, 7 days a week, usually 4 weeks on/off.  
 
