@@ -138,10 +138,8 @@ Hydrographic Surveyor
 **Geoteam srl, Rome** (06-2008 – 08-2010)
 Hydrographic Surveyor
 IT Administrator
-**Microbusiness srl, Rome**	(01-2007 – 03-2008)
+**Microbusiness srl, Rome**	(01-2006 – 03-2008)
 IT Technician
-**IZI srl, Rome** (06-2008 – 08-2010)
-Surveyor assistant*  
 
 #### Manager
 
