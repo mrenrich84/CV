@@ -77,7 +77,7 @@ I like to guess on motivation behind behaviour of people and I always push in fi
 
 #### High professionality
 A list of people I'm used to "feel breathing over my shoulders" includes clients rep from BP, Shell, Statoil and Dong Energy.  
-I learnt being comfortable in participating at meetings with such gents and/or overwatching the delivery of the final product to them (organized data usually based on client standard complete with reports).  
+I learnt being comfortable in participating at meetings with such gents and/or overwatching the delivery of the final product to them  - organizing data usually based on client standard and completoing with reports on work methodology and results.  
 
 #### High responsability 
 I am used to spend weeks in oil rigs safety zones - where any incident has an high risk of stopping oil production at least or catastrofic losses at worse - and be responsible for the positioning of Remotely Operated Vehicle and divers in underwater operations, near structures or in open seas.  
