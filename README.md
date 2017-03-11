@@ -75,20 +75,24 @@ I am also naturally open to find lessons from any experience - there is always o
 #### Empathic colleague
 I like to guess on motivation behind behaviour of people and I always push in finding solutions to happily share this world with everyone, family, friends, colleagues and strangers, whenever possible.  
 
-#### Used to highly professional and stressfull environments
+#### High professionality
+Al ist of clients rep I'm used to "feel breathing over my shoulders" includes BP, Shell, Statoil and Dong Energy.  
+I learnt being comfortable in participating at meetings with such gents and/or overwatching the delivery of the final product to them (organized data usually based on client standard complete with reports).  
+
+#### High responsability 
+I am used to spend weeks in oil rigs safety zones - where any incident has an high risk of stopping oil production at least or catastrofic losses at worse - and be responsible for the positioning of Remotely Operated Vehicle and divers in underwater operations, near structures or in open seas.  
+
+Furthermore, I guided the deploy of features on empty seabeds or near installments and I found myself once in the position of redesigning the route of a flexible riser (a pipeline to platform connector).  
+
+Sorely, I was at Gannett Alpha in August 2011 overwatching the biggest oil leak of North Sea.  
+
+#### Used to stressfull environments
 My 7 years offshore were mostly flying somewhere in the world, get on new vessels and know new people, new systems, new organizations, new projects.  
 My shifts onboard were 6am-6pm or 12-12 or viceversa, 7 days a week, usually 4 weeks on/off.  
 
-List of clients rep I'm used to "feel breathing behind my shoulders" includes BP, Shell, Statoil and Dong Energy.  
-I learnt being comfortable in participating at meetings with such gents and/or overwatching the delivery of the final product to them (organized data usually based on client standard complete with reports).  
 Quite a few times I had managers around me reminding the cost of stopping or delaying operations - which usually was starting at tens of thousands per day.  
-
-I am used to spend weeks in oil rigs safety zones - where any incident has an high risk of stopping oil production at least or catastrofic losses at worse - and be responsible for the positioning of Remotely Operated Vehicle and divers in underwater operations, near structures or in open seas.  
-Furthermore, I guided the deploy of features on empty seabeds or near installments and I found myself once in the position of redesigning the route of a flexible riser (a pipeline to platform connector).  
-Sorely, I was at Gannett Alpha in August 2011 overwatching the biggest oil leak of North Sea.  
   
 All of these was more cool and challenging than stressfull - such a great adventure!  
-Apart the last one, obviously...
 
 #### Sympathy with management humans
 Owning a restaurant for a year gave me some good insights on how difficult can managers life be.  
