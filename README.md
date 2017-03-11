@@ -26,7 +26,7 @@ This, plus 10 years of coding for fun, developed myself as a strong analythical 
 
 This approach constantly helps me in quickly dissecting how things works, isolating processes and unearth connections, leading to quarantine issues and promptly solve them.  
 
-### Eagle eye and fast at understanding code
+#### Eagle eye and fast at understanding code
 I start teaching myself how to program and use UNIX environments more than 10 years ago now, by picking up code and ideas on the web (StackOverflow, blogs, docs and man pages) or paper (O'Reilly).  
 This helped me developing an eye for code and the ability to quickly understand what the code is doing.  
 
