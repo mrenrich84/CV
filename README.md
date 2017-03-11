@@ -46,14 +46,18 @@ One of the reason I started coding was to automatise tasks, at work or in my pri
 I can be very passionated at the task I have been given, striving to deliver my best product.  
 Where I have seen others shy away from difficulties, I mostly take the challenge and push to overcome obstacles.  
 
-#### Thorough testing and attention to detail
+#### Code craftmanship and thorough testing
 During Makers Academy I learned about and falled in love with "beautiful code".  
 My mission as a coder become to deliver the most "beatiful code" possible, meaning code that is:
 - clear: code reads almost as plain English and it's flow can be quickly followed and understood;
 - elegant: code algorithms are neat and efficient at the same time;
 - malleable: code welcomes changes and extensions.
 
-TDD was another revelation and I cannot think about surviving in this world without it.  
+TDD was another revelation: I found it so beatiful and easy to code with tests on your side and I cannot think about surviving in this world without it.  
+
+#### Attention to detail
+I my pasts professional experiences, I have been responsible of archiving file systems with no clear structures where naming where almost random and everything was messed up, worked on logs where colleagues were taking notes for themselves only (sometimes not even in English!) and appreciated companies that constrain everybody to work on standards.  
+There I learned the importance of being a details maniac and consider your colleagues while working on a project. 
 
 #### Numbers freak
 A good part of hydrographic surveying involves filtering data on statistic models (Standard Deviation and 95% confidence as basic examples).  
@@ -63,7 +67,7 @@ Within it, I found out how keen I am on statistics, data and playing with it in 
 I learned to positively receive feedback, even strong ones, deeply reflecting on them.  
 I am also naturally open to find lessons from any experience - there is always one.  
 
-#### Easy going colleague (NEED TO FIND A BETTER HEADER)
+#### Easy going colleague (NEED TO FIND A BETTER HEADER!!!!!!!!!!!!!!!!!!!!!!)
 I like to guess on motivation behind behaviour of people and I always push in finding solutions to happily share this world with everyone, family, friends, colleagues and strangers, whenever possible.  
 
 #### Used to highly professional and stressfull environments
@@ -71,13 +75,12 @@ My 7 years offshore were mostly flying somewhere in the world, get on new vessel
 My shifts onboard were 6am-6pm or 12-12 or viceversa, 7 days a week, usually 4 weeks on/off.  
 
 List of clients rep I'm used to "feel breathing behind my shoulders" includes BP, Shell, Statoil and Dong Energy.  
-I learnt being comfortable in participating at meetings with such gents and/or overwatching the delivery of the final product to them (organized data complete with reports).  
+I learnt being comfortable in participating at meetings with such gents and/or overwatching the delivery of the final product to them (organized data usually based on client standard complete with reports).  
 Quite a few times I had managers around me reminding the cost of stopping or delaying operations - which usually was starting at tens of thousands per day.  
 
 I am used to spend weeks in oil rigs safety zones - where any incident has an high risk of stopping oil production at least or catastrofic losses at worse - and be responsible for the positioning of Remotely Operated Vehicle and divers in underwater operations, near structures or in open seas.  
-But also guide the deploy of features on the seabed and I found myself once in the position of redesigning the route of a flexible riser.  
-
-I was at Gannett Alpha in August 2011 overwatching the biggest oil leak of North Sea.  
+Furthermore, I guided the deploy of features on empty seabeds or near installments and I found myself once in the position of redesigning the route of a flexible riser (a pipeline to platform connector).  
+Sorely, I was at Gannett Alpha in August 2011 overwatching the biggest oil leak of North Sea.  
   
 All of these was more cool and challenging than stressfull - such a great adventure!  
 Apart the last one, obviously...
