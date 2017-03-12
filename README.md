@@ -3,22 +3,25 @@
 ***
 ### <a name="about_me">About me</a>
 
-After 7 years of mapping the North Sea and other hydrographic jobs, I decided to drop the anchor and buy a restaurant in the Canary Island.  
-
-Things didnt't went as expected so, a year later, I sold everything and took a gap year in Thailand with my girlfriend - trying to create a trip vlog which had a ridicously bad outcome.  
-
-When we finally decided it was about time to do something serious, we headed for the British Isles.  
-In there, I found this gem which is Makers Academy and learned I am a born-to-be developer with exceptional interests on producing "beatiful code".  
-
-My next step will be landing a job in company which mostly shares the Makers Academy ethics (Agile, SOLID, pair programming, TDD, open minded, diversity welcome) and I can't wait to see how these models fit in a professional environment! 
-
-I can probably express myself at best in an environment which:
+I am a **Full Stack Junior Developer** with strong IT and scientific background and some management experience.
+I will express myself at best in an environment which:
 - values "doers": people who work hard, get passionate at their tasks and enjoy having something to show for their efforts,
 - embraces creativity, innovation and independence of thought,
 - emphasyse on delivering at high standards,
 - has management investing good effort on team building,
 - has an easy going office culture,
 - comes with new challenges everyday. 
+
+
+
+After 7 years of mapping the North Sea and other hydrographic jobs, I decided to drop the anchor and buy a restaurant in the Canary Island.  
+
+Things didnt't went as expected so, a year later, I sold everything and took a gap year in Thailand with my girlfriend - trying to create a trip vlog which had a ridicously bad outcome.  
+
+When we finally decided it was about time to do something serious, we headed for the British Isles.  
+In there, I found this gem which is the Makers Academy 3 months web dev bootcamp and learned I am a born-to-be developer with exceptional interests on producing "beatiful code".  
+
+My next step will be landing a job in company which mostly shares the Makers Academy ethics (Agile, SOLID, pair programming, TDD, open minded, diversity welcome) and I can't wait to see how these models fit in a professional environment! 
 
 ***  
 ### Skills
