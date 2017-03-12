@@ -12,7 +12,7 @@ I will express myself at best in an environment which:
 - has an easy going office culture,
 - comes with new challenges everyday. 
 
-     ***
+***
   
 After 7 years of mapping the North Sea and other hydrographic jobs, I decided to drop the anchor and buy a restaurant in the Canary Island.  
 
