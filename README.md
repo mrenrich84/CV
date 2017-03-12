@@ -130,7 +130,7 @@ Trying to be a "good" boss while constantly making choices and have to deal with
 - Mark: 77/100 
 
 #### Any other qualifications
-IELTS: 7.5
+IELTS (Aug-2016): Overall Mark 7.5
 
 ***  
 ### Experience
