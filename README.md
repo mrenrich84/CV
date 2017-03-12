@@ -45,36 +45,27 @@ My next step will be landing a job in a company which mostly shares the Makers A
 
 #### Analythical thinker and fast problem solver
 I have 8 years of experience on installing, configuring and fixing equipment and/or IT infrastructure.  
-This, plus 10 years of coding for fun, developed myself as a strong analythical thinker, naturally analizing events as driven by logic causes.   
- 
-This approach constantly helps me in quickly dissecting how things works, isolating processes and unearth connections, leading to quarantine issues and promptly solve them.  
+This, plus 10 years of coding for fun, developed myself as a strong analythical thinker, quickly dissecting how things works, isolating processes and unearth connections, leading to quarantine issues and promptly solve them.  
 
 #### Eagle eye and fast at understanding code
 I start teaching myself how to program and use UNIX environments more than 10 years ago now, by picking up code and ideas on the web (StackOverflow, blogs, docs and man pages) or paper (O'Reilly).  
 This helped me developing an eye for code and the ability to quickly understand what the code is doing.  
 
-Also, my general interest for the tech world helped me fill up holes in knowledge in different occasions.
-
 #### Curious and fast learner
-I am a curious person very happy to vary and explore in normal life and this reflects in my programming experience.  
-Years before this course, for fun, I had given myself some tasks and learned how to accomplish them in Linux, Perl, Python or VBA, i.e..   
-While owning a restaurant, I had a grasp of R and a good dive in Google Docs platform to create a business manager system and work out the data that I collected with it.  
-
+I am a curious person very happy to vary and explore in normal life.
 This pleasure in changings developed an ability in me to quickly learn new tools and the way they work.  
+For fun or for work, many times I picked up tasks and learned how to accomplish them in Linux, Perl, Python, VBA, R, Google Docs, etc  
 
 #### Creative and innovator
-I am a creative person that is always happy to walk new path and find new method to accomplish task.  
-When I see a problem, I cannot stop my mind in pitching solutions and try some of them.  
+When I see a problem, I cannot stop my mind in pitching solutions and find new method to accomplish task.    
 One of the reason I started coding was to automatize tasks, at work or in my private life.  
-
-One of my mission during my year as restaurant owner and manager has been to increase the production level and profitability while simplify my employers life and enhance customer experience, by studying the workflow and changing or introducing new methods and tools, improving safety and hygiene, changing the establishment layout and improving the marketing program, increase the quality of the products delivery and try to engage in a friendship manner with my clients-
 
 #### Enthusiastic and passionated
 I can be very passionated at the task I have been given, striving to deliver my best product.  
 Where I have seen others shy away from difficulties, I mostly take the challenge and push to overcome obstacles.  
 
 #### Code craftmanship and thorough testing
-During Makers Academy I learned about and falled in love with "beautiful code".  
+During Makers Academy I falled in love with the concept of "beautiful code".
 My mission as a coder is now to deliver the most "beatiful code" possible, meaning code that is:
 - clear: code reads almost as plain English and it's flow can be quickly followed and understood;
 - elegant: code algorithms are neat and efficient at the same time;
@@ -83,19 +74,15 @@ My mission as a coder is now to deliver the most "beatiful code" possible, meani
 TDD was another revelation: I found it so beatiful, helpfull and easy to code with tests on your side that I cannot think about surviving in this world without it.  
 
 #### Attention to detail
-I had the unpleasent responsibility of archiving file systems with no clear structures, where naming where almost random and everything was messed up.  
-I worked on logs where colleagues were taking notes for themselves only (sometimes not even in English!).  
-I saw and appreciated companies that constrained everybody to work on defined standards.  
-
+I worked in situations where people were not given standards or nobody was paing attention to them, others where companies constrained the use of correct naming and log entries.
 Throught these experiences, I learned the importance of being a details maniac and consider your colleagues while working on a project. 
 
 On a vessel where I worked for a year, I have been given the task to write a manual for defining standards while at same time I developed a series of checklist for reducing errors and mantaining the quality of the work high.
 
 #### Numbers freak
-A good part of hydrographic surveying involves filtering data on statistic models (Standard Deviation and 95% confidence as basic examples).  
-Within it, I found out how keen I am on statistics, data and playing with it in general.  
+A good part of hydrographic surveying involves filtering data on statistic models (Standard Deviation and 95% confidence as basic examples) and this uncovered a part of me keen on statistics, data and playing with it in general.  
 
-When I buyed the restaurant, I suddenly started collecting the most statistics as possible, which then I used to redefine opening hours, personnel shifts, but also to redefine production or assess structural changes of the establishment.
+When I buyed the restaurant, I suddenly started collecting the most data as possible, which then I used to redefine opening hours, personnel shifts, but also to redefine production or assess structural changes of the establishment.
 
 #### Happy feedback receiver
 I learned to positively receive feedback, even strong ones, deeply reflecting on them.  
