@@ -167,7 +167,8 @@ Duties & Responsibilities:
 - Reporting and QC using Ms Office
 - Writing small script with VBA, Perl and Python
 
-#### Geoteam: IT Technician & Administrator (04-2008 – 07-2010)
+#### Geoteam: IT Administrator (04-2008 – 07-2010)
+#### Microbusiness: IT Technician (01-2006 – 03-2008)
 
 Duties & Responsibilities:
 - Designed and developed office IT: 
@@ -177,13 +178,6 @@ Duties & Responsibilities:
 - Writing reports and technical support
 - Demonstrated an integration between AutoCAD and PostgreSQL GIS for saving the company from spending an unnecessary amount of money on other technologies
 - Cracked network and systems, collecting managers' passwords and sensible data to demonstrate the need of a budget increase in the IT department
-
-
-#### Microbusiness: IT Technician (01-2006 – 03-2008)
-
-Duties & Responsibilities:
-- Onsite wireless / wired lan installation and configuration
-- Onsite assistance and technical support
 
 ***  
 ### <a name="interests">Interests</a>
