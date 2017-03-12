@@ -128,7 +128,7 @@ Trying to be a "good" boss while constantly making choices and have to deal with
 
 #### CFPE Petroselli (2003)
 
-- Principles of Web Developing and Marketing: Networking, ASP, Access, MS Active Directory, Javascript, some marketing and e-marketing concepts
+- Principles of Web Developing and Marketing: Networking, ASP, Access, MS Active Directory, Javascript, some marketing and e-marketing concepts  
 NB: I wasn't aged for the course so I couldn't graduate!!!
 
 #### J.J. Rousseau High School (2001)
