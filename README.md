@@ -3,7 +3,7 @@
 ***
 ### <a name="about_me">About me</a>
 
-I am a **Full Stack Junior Developer** with strong IT and scientific background and some procedural programming and management experience.  
+I am a **Full Stack Junior Developer** with strong IT, procedural programming and scientific background and some management experience.  
 I will express myself at best in an environment which:
 - values "doers": people who work hard, get passionate at their tasks and enjoy having something to show for their efforts,
 - embraces creativity, innovation and independence of thought,
