@@ -25,6 +25,24 @@ My next step will be landing a job in a company which mostly shares the Makers A
 
 ***  
 ### Skills
+- **Analythical thinker and fast problem solver**
+- **Eagle eye and fast at understanding code**
+- **Curious and fast learner**
+- **Creative and innovator**
+- **Enthusiastic and passionated**
+- **Code craftmanship and thorough testing**
+- **Attention to detail**
+- **Numbers freak**
+- **Happy feedback receiver**
+- **Empathic colleague**
+- **High professionality**
+- **High responsibility**
+- **Thrives under pressure**
+- **Sympathy with management humans**
+- **Italian, English and Spanish literate**
+
+***
+
 #### Analythical thinker and fast problem solver
 I have 8 years of experience on installing, configuring and fixing equipment and/or IT infrastructure.  
 This, plus 10 years of coding for fun, developed myself as a strong analythical thinker, naturally analizing events as driven by logic causes.   
