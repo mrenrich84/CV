@@ -8,7 +8,7 @@ After 7 years of mapping the North Sea and other hydrographic jobs, I decided to
 Things didnt't went as expected so, a year later, I sold everything and took a gap year in Thailand with my girlfriend - trying to create a trip vlog which had a ridicously bad outcome.  
 
 When we finally decided it was about time to do something serious, we headed for the British Isles.  
-In there, I found this gem which is Makers Academy and learned I am a born-to-be developer with exceptional interests on producing beatiful code.  
+In there, I found this gem which is Makers Academy and learned I am a born-to-be developer with exceptional interests on producing "beatiful code".  
 
 My next step will be landing a job in company which mostly shares the Makers Academy ethics (Agile, SOLID, pair programming, TDD, open minded, diversity welcome) and I can't wait to see how these models fit in a professional environment! 
 
@@ -37,7 +37,7 @@ Also, my general interest for the tech world helped me fill up holes in knowledg
 #### Curious and fast learner
 I am a curious person very happy to vary and explore in normal life and this reflects in my programming experience.  
 Years before this course, for fun, I had given myself some tasks and learned how to accomplish them in Linux, Perl, Python or VBA, i.e..   
-While owning the restaurant, I had a grasp of R and a good dive in Google Docs platform.  
+While owning a restaurant, I had a grasp of R and a good dive in Google Docs platform to create a business manager system and work out the data that I collected with it.  
 
 This pleasure in changings developed an ability in me to quickly learn new tools and the way they work.  
 
@@ -46,7 +46,7 @@ I am a creative person that is always happy to walk new path and find new method
 When I see a problem, I cannot stop my mind in pitching solutions and try some of them.  
 One of the reason I started coding was to automatize tasks, at work or in my private life.  
 
-One of my mission as manager has been to increase production level and profitability while simplify my employers life and enhance customer experience.
+One of my mission during my year as restaurant owner and manager has been to increase the production level and profitability while simplify my employers life and enhance customer experience, by studying the workflow and changing or introducing new methods and tools, improving safety and hygiene, changing the establishment layout and improving the marketing program, increase the quality of the products delivery and try to engage in a friendship manner with my clients-
 
 #### Enthusiastic and passionated
 I can be very passionated at the task I have been given, striving to deliver my best product.  
@@ -54,19 +54,19 @@ Where I have seen others shy away from difficulties, I mostly take the challenge
 
 #### Code craftmanship and thorough testing
 During Makers Academy I learned about and falled in love with "beautiful code".  
-My mission as a coder become to deliver the most "beatiful code" possible, meaning code that is:
+My mission as a coder is now to deliver the most "beatiful code" possible, meaning code that is:
 - clear: code reads almost as plain English and it's flow can be quickly followed and understood;
 - elegant: code algorithms are neat and efficient at the same time;
 - malleable: code welcomes changes and extensions.
 
-TDD was another revelation: I found it so beatiful and easy to code with tests on your side and I cannot think about surviving in this world without it.  
+TDD was another revelation: I found it so beatiful, helpfull and easy to code with tests on your side that I cannot think about surviving in this world without it.  
 
 #### Attention to detail
 I had the unpleasent responsibility of archiving file systems with no clear structures, where naming where almost random and everything was messed up.  
 I worked on logs where colleagues were taking notes for themselves only (sometimes not even in English!).  
 I saw and appreciated companies that constrained everybody to work on defined standards.  
 
-Throguh these experiences, I learned the importance of being a details maniac and consider your colleagues while working on a project. 
+Throught these experiences, I learned the importance of being a details maniac and consider your colleagues while working on a project. 
 
 #### Numbers freak
 A good part of hydrographic surveying involves filtering data on statistic models (Standard Deviation and 95% confidence as basic examples).  
@@ -79,18 +79,18 @@ I learned to positively receive feedback, even strong ones, deeply reflecting on
 I am also naturally open to find lessons from any experience - there is always one.  
 
 #### Empathic colleague
-I like to guess on motivation behind behaviour of people and I always push in finding solutions to happily share this world with everyone, family, friends, colleagues and strangers, whenever possible.  
+I like to guess on motivation behind behaviour of people and I always push in finding solutions to happily share this world with everyone - family, friends nad colleagues but strangers also - whenever possible.  
   
-Also, living onboard vessels, 24 hours a day for usually a month, shoulder to shoulder with my workmates, sharing a cabin perhaps, really teached me on how to avoid major confrontation and keep character clash at a minimum.  
+Living onboard vessels, 24 hours a day for usually a month, shoulder to shoulder with my workmates, sharing a cabin perhaps, really teached me on how to avoid major confrontation, keep character clash at a minimum and reach for a positive office environment.  
 
 #### High professionality
-A list of people I'm used to "feel breathing over my shoulders" includes clients rep from BP, Shell, Statoil and Dong Energy.  
-I learnt being comfortable in participating at meetings with such gents and/or overwatching the delivery of the final product to them  - organizing data usually based on client standard and completoing with reports on work methodology and results.  
+A list of people I am used to "feel breathing over my shoulders" includes clients rep from BP, Shell, Statoil and Dong Energy.  
+I learnt being comfortable in participating at meetings with such gents and/or overwatching the delivery of the final product to them  - organizing data usually based on client standard and summarizing reports on work methodology and results.  
 
 #### High responsibility 
 I am used to spend weeks in oil rigs safety zones - where any incident has an high risk of stopping oil production at least or catastrofic losses at worse - and be responsible for the positioning of Remotely Operated Vehicle and divers in underwater operations, near structures or in open seas.  
 
-Furthermore, I guided the deploy of features on empty seabeds or near installments and I found myself once in the position of redesigning the route of a flexible riser (a pipeline to platform connector).  
+Furthermore, I guided the deploy of features on empty seabeds or near structures and I found myself once in the position of redesigning the route of a flexible riser - a pipeline to platform connector.  
 
 Sorely, I was supporting divers operations at Gannett Alpha in August 2011 overwatching the biggest oil leak of North Sea.  
 
@@ -100,11 +100,11 @@ My shifts onboard were 6am-6pm or 12-12 or viceversa, 7 days a week, usually 4 w
 
 Quite a few times I had managers around me reminding the cost of stopping or delaying operations - which usually was starting at tens of thousands per day.  
   
-All of these was more cool and challenging than stressfull - such a great adventure!  
+All of these has been more cool and challenging than stressfull - such a great adventure!  
 
 #### Sympathy with management humans
 Owning a restaurant for a year gave me some good insights on how difficult can managers life be.  
-Trying to be a "good" boss while constantly making choices and have to deal with their consequences (sometimes not happy), developed in myself a sympathy for business runners.
+Trying to be a "good" boss while constantly making choices and have to deal with their consequences (sometimes not happy), developed in myself an empathy with entrepreneurs.
 
 #### Native Italian with fluent English and Spanish language capabilities
 
@@ -114,20 +114,19 @@ Trying to be a "good" boss while constantly making choices and have to deal with
 ***  
 ### Education
 
-#### Makers Academy (03/01/2017 to end_date)
+#### Makers Academy (01-03/2017)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
+- Being an independent learner and a problem-solver
+- OOP, TDD/BDD, SOLID, MVC
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Ruby, Rails, Javascript
+- Rspec, Jasmine
 
 
 #### CFPE Petroselli (2003)
 
 - Principles of Web Developing and Marketing: Networking, ASP, Access, MS Active Directory, Javascript, some marketing and e-marketing concepts
-- Grade: wasn't aged for the course so I couldn't partecipate to the exams!!!
+NB: I wasn't aged for the course so I couldn't graduate!!!
 
 #### J.J. Rousseau High School (2001)
 
@@ -151,11 +150,11 @@ IELTS (Aug-2016): Overall Mark 7.5
 #### Pizzeria da Fabbio: Owner – Restaurant Manager (09-2014 - 08-2015)  
 
 Duties & Responsibilities:
-- Managing the different line of production, while studying for new and innovative way to improve the production itself and, therefore, the profitability of the business
-- Developing a manner to manage the business using Google Drive plus other software, mainly Microsoft Office and Access with some R and Python
 - Improve and simplify personnel work while pushing their motivation
 - Increase customer engagement
 - Legal responsibilities
+- Improve production
+- Developing a business management system
 
 #### Consultant: Senior Hydrographic Surveyor, Survey Engineer    (08-2010 - 2015)
 #### Geoteam:    Hydrographic Surveyor, Assistant Survey Engineer (04-2008 – 07-2010)
@@ -170,13 +169,14 @@ Duties & Responsibilities:
 #### Geoteam: IT Technician & Administrator (04-2008 – 07-2010)
 
 Duties & Responsibilities:
-- Designed and developed office IT hardware infrastructure
-- Designed and deployed office IT server: deployed a Debian server with user and group based access using Samba and MySQL
-- Designed and deployed office IT clients: Windows XP machines interfaced with the server and Ms Office integrated with MySQL
+- Designed and developed office IT: 
+* hardware infrastructure; 
+* server: Debian with user and group based access using Samba and MySQL
+* clients: Windows XP machines interfaced with the server and Ms Office integrated with MySQL
+- Writing reports and technical support
 - Demonstrated an integration between AutoCAD and PostgreSQL GIS for saving the company from spending an unnecessary amount of money on other technologies
 - Cracked network wifi and managers' passwords and sensible data to demonstrate the need of a budget increase in the IT department
-- Writing reports
-- Technical support
+
 
 #### Microbusiness: IT Technician (01-2006 – 03-2008)
 
