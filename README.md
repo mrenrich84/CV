@@ -111,7 +111,7 @@ All of these has been more cool and challenging than stressfull - such a great a
 Owning a restaurant for a year gave me some good insights on how difficult can managers life be.  
 Trying to be a "good" boss while constantly making choices and have to deal with their consequences (sometimes not happy), developed in myself an empathy with entrepreneurs.
 
-#### Language
+#### Languages: Italian, English and Spanish
 Italian mothertongue.  
 English and Spanish, fluent in spoken and written.  
 
