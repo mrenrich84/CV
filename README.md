@@ -129,6 +129,7 @@ Trying to be a "good" boss while constantly making choices and have to deal with
 #### CFPE Petroselli (2003)
 
 - Principles of Web Developing and Marketing: Networking, ASP, Access, MS Active Directory, Javascript, some marketing and e-marketing concepts  
+
 NB: I wasn't aged for the course so I couldn't graduate!!!
 
 #### J.J. Rousseau High School (2001)
@@ -164,7 +165,7 @@ Duties & Responsibilities:
 
 Duties & Responsibilities:
 - Engineering vessels: cablings; equipment installation, testing and calibration, troubleshooting; manage shippings
-- Data collection: acquiring sensor data through specialized software for serveral projects: hydrography and seismic surveys; vessel, features, divers and ROV positioning
+- Data collection: acquiring sensor data through specialized software for several projects: hydrography and seismic surveys; vessel, features, divers and ROV positioning
 - Processing of data collected with specialized software, Ms Office, Autocad and GIS, mainly using statistical method
 - Reporting and QC using Ms Office
 - Writing small script with VBA, Perl and Python
