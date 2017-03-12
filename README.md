@@ -71,6 +71,8 @@ I saw and appreciated companies that constrained everybody to work on defined st
 
 Throught these experiences, I learned the importance of being a details maniac and consider your colleagues while working on a project. 
 
+On a vessel where I worked for a year, I have been given the task to write a manual for defining standards while at same time I developed a series of checklist for reducing errors and mantaining the quality of the work high.
+
 #### Numbers freak
 A good part of hydrographic surveying involves filtering data on statistic models (Standard Deviation and 95% confidence as basic examples).  
 Within it, I found out how keen I am on statistics, data and playing with it in general.  
