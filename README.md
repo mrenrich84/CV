@@ -74,6 +74,8 @@ I am also naturally open to find lessons from any experience - there is always o
 
 #### Empathic colleague
 I like to guess on motivation behind behaviour of people and I always push in finding solutions to happily share this world with everyone, family, friends, colleagues and strangers, whenever possible.  
+  
+Also, living onboard vessels, 24 hours a day for usually a month, shoulder to shoulder with my workmates, sharing a cabin perhaps, really teached me on how to avoid major confrontation and keep character clash at a minimum.  
 
 #### High professionality
 A list of people I'm used to "feel breathing over my shoulders" includes clients rep from BP, Shell, Statoil and Dong Energy.  
@@ -97,6 +99,8 @@ All of these was more cool and challenging than stressfull - such a great advent
 #### Sympathy with management humans
 Owning a restaurant for a year gave me some good insights on how difficult can managers life be.  
 Trying to be a "good" boss while constantly making choices and have to deal with their consequences (sometimes not happy), developed in myself a sympathy for business runners.
+
+#### Native Italian with fluent English and Spanish language capabilities
 
 ***  
 ### <a name="projects">Projects & Code</a>
@@ -131,15 +135,12 @@ IELTS: 7.5
 ***  
 ### Experience
 
-**Pizzeria da Fabbio** (09-2014 - 08-2015)
-Restaurant Owner & Manager
-**Various Co. / Self Employed** (03-2008 – 2015)
-Hydrographic Surveyor
-**Geoteam srl, Rome** (06-2008 – 08-2010)
-Hydrographic Surveyor
-IT Administrator
-**Microbusiness srl, Rome**	(01-2006 – 03-2008)
-IT Technician
+| COMPANY                 | PERIOD            | POSITION                                                             | 
+|-------------------------|-------------------|----------------------------------------------------------------------| 
+| Pizzeria da Fabbio      | 09-2014 - 08-2015 | Restaurant Owner & Manager                                           | 
+| Self Employed           | 08-2010 – 2015    | Senior Hydrographic Surveyor, Survey Engineer                        | 
+| Geoteam srl, Rome       | 04-2008 – 07-2010 | Hydrographic Surveyor, Assistant Survey Engineer, IT Administrator   | 
+| Microbusiness srl, Rome | 01-2006 – 03-2008 | IT Technician                                                        | 
 
 #### Manager
 
