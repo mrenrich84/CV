@@ -170,12 +170,12 @@ Duties & Responsibilities:
 
 Duties & Responsibilities:
 - Designed and developed office IT: 
-  ..* hardware infrastructure
-  ..* server: Debian with user and group based access using Samba and MySQL
-  ..* clients: Windows XP machines interfaced with the server and Ms Office integrated with MySQL
+  - hardware infrastructure
+  - server: Debian with user and group based access using Samba and MySQL
+  - clients: Windows XP machines interfaced with the server and Ms Office integrated with MySQL
 - Writing reports and technical support
 - Demonstrated an integration between AutoCAD and PostgreSQL GIS for saving the company from spending an unnecessary amount of money on other technologies
-- Cracked network wifi and managers' passwords and sensible data to demonstrate the need of a budget increase in the IT department
+- Cracked network and systems, collecting managers' passwords and sensible data to demonstrate the need of a budget increase in the IT department
 
 
 #### Microbusiness: IT Technician (01-2006 – 03-2008)
