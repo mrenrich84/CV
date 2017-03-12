@@ -36,13 +36,17 @@ Also, my general interest for the tech world helped me fill up holes in knowledg
 
 #### Curious and fast learner
 I am a curious person very happy to vary and explore in normal life and this reflects in my programming experience.  
-Years before this course, for fun, I had given myself some tasks and learned how to accomplish them in Linux, Perl, Python or VBA, i.e..  
+Years before this course, for fun, I had given myself some tasks and learned how to accomplish them in Linux, Perl, Python or VBA, i.e..   
+While owning the restaurant, I had a grasp of R and a good dive in Google Docs platform.  
+
 This pleasure in changings developed an ability in me to quickly learn new tools and the way they work.  
 
 #### Creative and innovator
 I am a creative person that is always happy to walk new path and find new method to accomplish task.  
 When I see a problem, I cannot stop my mind in pitching solutions and try some of them.  
-One of the reason I started coding was to automatise tasks, at work or in my private life.  
+One of the reason I started coding was to automatize tasks, at work or in my private life.  
+
+One of my mission as manager has been to increase production level and profitability while simplify my employers life and enhance customer experience.
 
 #### Enthusiastic and passionated
 I can be very passionated at the task I have been given, striving to deliver my best product.  
@@ -67,6 +71,8 @@ Throguh these experiences, I learned the importance of being a details maniac an
 #### Numbers freak
 A good part of hydrographic surveying involves filtering data on statistic models (Standard Deviation and 95% confidence as basic examples).  
 Within it, I found out how keen I am on statistics, data and playing with it in general.  
+
+When I buyed the restaurant, I suddenly started collecting the most statistics as possible, which then I used to redefine opening hours, personnel shifts, but also to redefine production or assess structural changes of the establishment.
 
 #### Happy feedback receiver
 I learned to positively receive feedback, even strong ones, deeply reflecting on them.  
@@ -138,59 +144,50 @@ IELTS (Aug-2016): Overall Mark 7.5
 | COMPANY                 | PERIOD            | POSITION                                                             | 
 |-------------------------|-------------------|----------------------------------------------------------------------| 
 | Pizzeria da Fabbio      | 09-2014 - 08-2015 | Restaurant Owner & Manager                                           | 
-| Self Employed           | 08-2010 – 2015    | Senior Hydrographic Surveyor, Survey Engineer                        | 
+| Consultant              | 08-2010 – 2015    | Senior Hydrographic Surveyor, Survey Engineer                        | 
 | Geoteam srl, Rome       | 04-2008 – 07-2010 | Hydrographic Surveyor, Assistant Survey Engineer, IT Administrator   | 
 | Microbusiness srl, Rome | 01-2006 – 03-2008 | IT Technician                                                        | 
 
-#### Manager
+#### Pizzeria da Fabbio: Owner – Restaurant Manager (09-2014 - 08-2015)  
 
-In 2015 I buyed a restaurant in Fuerteventura and worked in as a Manager where I found myself very involved in:
+Duties & Responsibilities:
 - Managing the different line of production, while studying for new and innovative way to improve the production itself and, therefore, the profitability of the business
-- Developing a manner to manage the business using Google Drive plus other software, mainly Microsoft Office and Access
-- Overseeing personnel work, attitude and motivation
-- Customer engagement
+- Developing a manner to manage the business using Google Drive plus other software, mainly Microsoft Office and Access with some R and Python
+- Improve and simplify personnel work while pushing their motivation
+- Increase customer engagement
+- Legal responsibilities
 
-Eventually, things didn't went very well and I managed to sell it but I'm still receiving compliments of the way the restaurant was doing!
+#### Consultant: Senior Hydrographic Surveyor, Survey Engineer    (08-2010 - 2015)
+#### Geoteam:    Hydrographic Surveyor, Assistant Survey Engineer (04-2008 – 07-2010)
 
-Specifically, I was:
-- collecting customer data for different reasons like:
--- building up statistics for operations (i.e. opening and busy hours to optimize shift: I was able to identify trends which led to change the opening hours from 8 to 11, managing to keep daily shifts of 20 hours total; one of my last objective was identifying periods and trends and correlation with clients preferences and help anticipating them to improve the production)
--- create a client DB: long term project was to create a kind of CRM and ordering system
-- collecting production methods (i.e. creating a DB of recipes and tasks requested to make them, with workloads for personnel and tools/workplaces) for:
--- identify production bottlenecks and quickly study way for improving production: the idea was to cross the customer data with the DB recipe in order to clearly see when production was going behind and see if there were chances to avoid these delays by changing a recipe method i.e. 
--- identify workers performance and use this data to motivate them
-- collecting invoices and other data and mix it all in Google Sheets to quickly generate balance and finance sheets
-Most of these projects stopped halfway, nonetheless I had a good grasp at the challenges and requests of these problems.
-I mostly used MS Office and Google Documents, but had a look at R and Python also.
+Duties & Responsibilities:
+- Engineering vessels: cablings; equipment installation, testing and calibration, troubleshooting; manage shippings
+- Data collection: acquiring sensor data through specialized software for serveral projects: hydrography and seismic surveys; vessel, features, divers and ROV positioning
+- Processing of data collected with specialized software, Ms Office, Autocad and GIS, mainly using statistical method
+- Reporting and QC using Ms Office
+- Writing small script with VBA, Perl and Python
 
-#### Marine surveyor
+#### Geoteam: IT Technician & Administrator (04-2008 – 07-2010)
 
-Spent between 2008 and 2015, mostly in the North Sea, as a marine surveyor freelance, working on collection of data and the processing of it with specialized software, from different type of sensors, for different kind of marine projects: cartography; structure installation (i.e. pipe and gas lines, electrical cable for wind farms); vessel, divers and ROV positioning, etc
+Duties & Responsibilities:
+- Designed and developed office IT hardware infrastructure
+- Designed and deployed office IT server: deployed a Debian server with user and group based access using Samba and MySQL
+- Designed and deployed office IT clients: Windows XP machines interfaced with the server and Ms Office integrated with MySQL
+- Demonstrated an integration between AutoCAD and PostgreSQL GIS for saving the company from spending an unnecessary amount of money on other technologies
+- Cracked network wifi and managers' passwords and sensible data to demonstrate the need of a budget increase in the IT department
+- Writing reports
+- Technical support
 
-Work was like 12 hrs day/night, 7 days a week shifts for a monthish for clients of the alike of BP, Statoil, Shell, etc
-[So a lot of pressure and adaptation to work situations and challenges, plus strongly international work environment]
+#### Microbusiness: IT Technician (01-2006 – 03-2008)
 
-On some projects I was required to mob and demob vessels: cablings; equipment installation, testing and calibration
-On most of them I was due to create reports and QC data using Microsoft Office
-Occasionly, I developed some excel VBA forms/sheets or small scripts in perl and python
-
-#### IT Technician & Administrator
-
-During 2008 at Geoteam SRL, Italy, I worked as an IT admin where I:
-- developed a Debian server for the office giving services of SMB, MySQL (interfaced with MS Access), PostGIS (interfaced with AutoCAD Map
-- created various programs on Access, Excel (with VBA) and some small scripts in Perl
-- was administrating the network and Windows and Linux systems
-
-#### IT Technician
-
-Worked in 2007 at Microbusiness SRL, Italy as an IT Technician with tasks of:
+Duties & Responsibilities:
 - Onsite wireless / wired lan installation and configuration
 - Onsite assistance and technical support
 
 ***  
 ### <a name="interests">Interests</a>
 
-Computer gaming, programming and all that is geek!  
+Computer gaming, tech stuff and all that is geek!  
 Music, photography and videomaking  
 Traveling  
 Sports: football, surf, american football  
