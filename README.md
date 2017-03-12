@@ -148,13 +148,13 @@ IELTS (Aug-2016): Overall Mark 7.5
 ***  
 ### Experience
 
--| COMPANY                 | PERIOD            | POSITION                                                             | 		
- -|-------------------------|-------------------|----------------------------------------------------------------------| 		
- -| Pizzeria da Fabbio      | 09-2014 - 08-2015 | Restaurant Owner & Manager                                           | 		
- -| Consultant              | 08-2010 – 2015    | Senior Hydrographic Surveyor, Survey Engineer                        | 		
- -| Geoteam srl, Rome       | 04-2008 – 07-2010 | Hydrographic Surveyor, Assistant Survey Engineer, IT Administrator   | 		
- -| Microbusiness srl, Rome | 01-2006 – 03-2008 | IT Technician                                                        | 		
- -
+| COMPANY                 | PERIOD            | POSITION                                                             | 		
+|-------------------------|-------------------|----------------------------------------------------------------------| 		
+| Pizzeria da Fabbio      | 09-2014 - 08-2015 | Restaurant Owner & Manager                                           | 		
+| Consultant              | 08-2010 – 2015    | Senior Hydrographic Surveyor, Survey Engineer                        | 		
+| Geoteam srl, Rome       | 04-2008 – 07-2010 | Hydrographic Surveyor, Assistant Survey Engineer, IT Administrator   | 		
+| Microbusiness srl, Rome | 01-2006 – 03-2008 | IT Technician                                                        | 		
+
 #### Pizzeria da Fabbio: Owner – Restaurant Manager (09-2014 - 08-2015)  
 
 Duties & Responsibilities:
