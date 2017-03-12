@@ -28,7 +28,7 @@ My next step will be landing a job in company which mostly shares the Makers Aca
 #### Analythical thinker and fast problem solver
 I have 8 years of experience on installing, configuring and fixing equipment and/or IT infrastructure.  
 This, plus 10 years of coding for fun, developed myself as a strong analythical thinker, naturally analizing events as driven by logic causes.   
-
+ 
 This approach constantly helps me in quickly dissecting how things works, isolating processes and unearth connections, leading to quarantine issues and promptly solve them.  
 
 #### Eagle eye and fast at understanding code
