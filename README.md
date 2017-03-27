@@ -35,7 +35,7 @@ My next step will be landing a job in a company which mostly shares the Makers A
 - **Numbers freak**
 - **Happy feedback receiver**
 - **Empathic colleague**
-- **High professionality**
+- **High professionality and more than 5 years of consulting**
 - **High responsibility**
 - **Thrives under pressure**
 - **Sympathy with management humans**
@@ -93,7 +93,7 @@ I like to guess on motivation behind behaviour of people and I always push in fi
   
 Living onboard vessels, 24 hours a day for usually a month, shoulder to shoulder with my workmates, sharing a cabin perhaps, really teached me on how to avoid major confrontation, keep character clash at a minimum and reach for a positive office environment.  
 
-#### High professionality
+#### High professionality and more than 5 years of consulting
 A list of people I am used to "feel breathing over my shoulders" includes clients rep from BP, Shell, Statoil and Dong Energy.  
 I learnt being comfortable in participating at meetings with such gents and/or overwatching the delivery of the final product to them  - organizing data usually based on client standard and summarizing reports on work methodology and results.  
 
