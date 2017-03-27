@@ -193,6 +193,8 @@ Duties & Responsibilities:
 #### Consultant: Senior Hydrographic Surveyor, Survey Engineer    (08-2010 - 2015)
 #### Geoteam:    Hydrographic Surveyor, Assistant Survey Engineer (04-2008 – 07-2010)
 
+While consultant, worked for subcontractors of BP, Shell, Statoil, Dong, Alcatel, etc.
+
 Duties & Responsibilities:
 - Engineering vessels: cablings; equipment installation, testing and calibration, troubleshooting; manage shippings
 - Data collection: acquiring sensor data through specialized software for several projects: hydrography and seismic surveys; vessel, features, divers and ROV positioning
