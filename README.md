@@ -223,14 +223,9 @@ Sports: football, surf, american football
 ***
 
 ### <a name="contact">Contact</a>
-- Github[1]
-- Codewars https://www.codewars.com/users/mrenrich84
+- [Github][1]
+- [Codewars]
 
-
-
-- Twitter: [@lukecartledge](https://twitter.com/lukecartledge)
-- Codewars http://www.codewars.com/users/lukecartledge
-- Coding Blog/Site: [lucalabs.com](http://www.lucalabs.com)
 
 [1]: https://github.com/mrenrich84
-[2]: https://github.com/MakeItStop/task-based-alarm
+[2]: https://www.codewars.com/users/mrenrich84
