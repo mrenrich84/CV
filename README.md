@@ -128,7 +128,7 @@ English and Spanish, fluent in spoken and written.
 | Emotify        | Find out your crowd emotions! Our final 2 weeks project at Makers Academy | [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][3]              | NodeJS, React, Jest                             | 
 | Notes          | A single page web app with its own testing framework built in 1 week      | [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][4]  | NodeJS, CadillacJS (in-house testing framework) | 
 | Gilded Rose    | Gilded Rose - 1 day tech test                                             | [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][5]  | Ruby, Rspec                                     | 
-| Bank tech test | Account managing, 1 day tech test                                         | [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][6]    | Ruby, Rspec                                     | 
+| Bank tech test | Account managing - 1 day tech test                                         | [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][6]    | Ruby, Rspec                                     | 
 | Fix City       | A web app to report problems to your local council, build in a week       | [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][7]   | Ruby on Rails, Rspec, Capybara                  | 
 
 #### Old Projects
