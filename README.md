@@ -54,7 +54,7 @@ This helped me developing an eye for code and the ability to quickly understand 
 #### Curious and fast learner
 I am a curious person very happy to vary and explore in normal life.
 This pleasure in changings developed an ability in me to quickly learn new tools and the way they work.  
-For fun or for work, many times I picked up tasks and learned how to accomplish them in Linux, Perl, Python, VBA, R, Google Docs, etc  
+For fun or for work, many times I picked up tasks and learned how to accomplish them in Linux, Perl, Python, VBA, R, Google Apps Script, etc  
 
 #### Creative and innovator
 When I see a problem, I cannot stop my mind in pitching solutions and find new method to accomplish task.    
