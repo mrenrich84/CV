@@ -125,7 +125,7 @@ English and Spanish, fluent in spoken and written.
 #### Makers Academy Projects
 | Project        | Description                                                               | Code/Demo Links                                | Technologies Used                               | 
 |----------------|---------------------------------------------------------------------------|------------------------------------------------|-------------------------------------------------| 
-| Emotify        | Find out your crowd emotions! Our final 2 weeks project at Makers Academy | https://github.com/mbgimot/emotify             | NodeJS, React, Jest                             | 
+| Emotify        | Find out your crowd emotions! Our final 2 weeks project at Makers Academy | [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][3]              | NodeJS, React, Jest                             | 
 | Notes          | A single page web app with its own testing framework built in 1 week      | https://github.com/rkclark/notes-app-challenge | NodeJS, CadillacJS (in-house testing framework) | 
 | Gilded Rose    | Gilded Rose - 1 day tech test                                             | https://github.com/mrenrich84/gilded-rose-ruby | Ruby, Rspec                                     | 
 | Bank tech test | Account managing, 1 day tech test                                         | https://github.com/mrenrich84/bank-tech-test   | Ruby, Rspec                                     | 
@@ -229,3 +229,8 @@ Sports: football, surf, american football
 
 [1]: https://github.com/mrenrich84
 [2]: https://www.codewars.com/users/mrenrich84
+[3]: https://github.com/mbgimot/emotify
+[4]: https://github.com/rkclark/notes-app-challenge
+[5]: https://github.com/mrenrich84/gilded-rose-ruby
+[6]: https://github.com/mrenrich84/bank-tech-test
+[7]: https://github.com/KatHicks/fix-city
