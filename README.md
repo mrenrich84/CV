@@ -122,6 +122,14 @@ English and Spanish, fluent in spoken and written.
 
 ***  
 ### <a name="projects">Projects & Code</a>
+#### Makers Academy Projects
+| Project        | Description                                                               | Code/Demo Links                                | Technologies Used                               | 
+|----------------|---------------------------------------------------------------------------|------------------------------------------------|-------------------------------------------------| 
+| Emotify        | Find out your crowd emotions! Our final 2 weeks project at Makers Academy | https://github.com/mbgimot/emotify             | NodeJS, React, Jest                             | 
+| Notes          | A single page web app with its own testing framework built in 1 week      | https://github.com/rkclark/notes-app-challenge | NodeJS, CadillacJS (in-house testing framework) | 
+| Gilded Rose    | Gilded Rose - 1 day tech test                                             | https://github.com/mrenrich84/gilded-rose-ruby | Ruby, Rspec                                     | 
+| Bank tech test | Account managing, 1 day tech test                                         | https://github.com/mrenrich84/bank-tech-test   | Ruby, Rspec                                     | 
+| Fix City       | A web app to report problems to your local council, build in a week       | https://github.com/KatHicks/fix-city           | Ruby on Rails, Rspec, Capybara                  | 
 
 #### Old Projects
 | Project                            | Description                                                                                                                                                                          | Code/Demo Links | Technologies Used              | Year | 
@@ -215,5 +223,14 @@ Sports: football, surf, american football
 ***
 
 ### <a name="contact">Contact</a>
-- Github: [mrenrich84](https://github.com/mrenrich84)
+- Github[1]
 - Codewars https://www.codewars.com/users/mrenrich84
+
+
+
+- Twitter: [@lukecartledge](https://twitter.com/lukecartledge)
+- Codewars http://www.codewars.com/users/lukecartledge
+- Coding Blog/Site: [lucalabs.com](http://www.lucalabs.com)
+
+[1]: https://github.com/mrenrich84
+[2]: https://github.com/MakeItStop/task-based-alarm
