@@ -123,6 +123,18 @@ English and Spanish, fluent in spoken and written.
 ***  
 ### <a name="projects">Projects & Code</a>
 
+#### Old Projects
+| Project                       | Description                                                                                                                                                                          | Code/Demo Links | Technologies Used              | Year | 
+|-------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|--------------------------------|------| 
+| Recetario                     | A DB to track recipes, ingredients and allergens. It was later intended to merge with customer data, providing a way to simulate restaurant load and helping in defining strategies. | Coming up!!!    | MS Access, VBA, Google Sheets  | 2015 | 
+| Offshore CV                   | A DB to easily update my work experience producing statistics on work type and equipments used                                                                                       | Coming up!!!    | Ms Access, VBA                 | 2014 | 
+| Navipac tools                 | Small scripts to convert files format of Navipac, a proprietary software we were using at work                                                                                       | Coming up!!!    | Perl                           | 2014 | 
+| Borkum Riffgrund GIS          | Integrating project data into OpenGeo and offering it through browser or API (WMS, WCS, WFS) access                                                                                  | Coming up!!!    | Ubuntu, Opengeo, Grass, Python | 2014 | 
+| Parco degli Acquedotti        | It was intended as a brochure website for a park nearby my homeplace.                                                                                                                | Coming up!!!    | LAMP                           | 2013 | 
+| db-qpd_archiver.vbs           | A script for archiving a set of files, properly caring that files naming follow convention.                                                                                          | Coming up!!!    | VBS                            | 2012 | 
+| Enrico CTD form 20120828.xlsm | Automatize processing and reporting of CTD probes.                                                                                                                                   | Coming up!!!    | VBA                            | 2012 | 
+| Office Server Installation    | Debian server offering file sharing with automatic backup and VPN access                                                                                                             | Coming up!!!    | Debian, Samba, Hamachi         | 2010 | 
+
 ***  
 ### Education
 
