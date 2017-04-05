@@ -5,14 +5,13 @@
 
 I am a **Full Stack Junior Developer** with strong IT and scientific background and some procedural programming and management experience.  
 
-After 7 years of mapping the North Sea and other hydrographic jobs, I decided to drop the anchor and buy a restaurant in the Canary Island.  
+After 7 years of mapping the North Sea and similar hydrographic jobs, I felt ready for a bigger adventure and bought a restaurant in the Canary Island.  
 
-Things didnt't went as expected so, a year later, I sold everything and took a gap year in Thailand with my girlfriend - trying to create a trip vlog which had a ridicously bad outcome.  
+Being an owner and a manager, it has been a huge experience.  
+However things didn't turned out as expected, so me and my girlfriend packed up for a gap year in Thailand and around.  
 
-After that trip, I took some time to perform a big retrospective on myself and, based on my qualities and my motivations, find a new career.
-I found this gem which is the Makers Academy 3 months web dev bootcamp and learned I am a born-to-be developer with exceptional interests on producing "beatiful code".  
-
-My next step will be landing a job in a company which mostly shares the Makers Academy ethics (Agile, SOLID, pair programming, TDD, open minded, diversity welcome) and I can't wait to see how these models fit in a professional environment! 
+Back in Europe, I felt my old profession was not fullfilling me anymore so I started looking around.  
+That is where I found this gem which is the Makers Academy 3 months web dev bootcamp and learned I am a born-to-be developer with exceptional interests on producing "beatiful code". 
 
 ***  
 ### Skills
