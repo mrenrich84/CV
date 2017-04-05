@@ -4,16 +4,7 @@
 ### <a name="about_me">About me</a>
 
 I am a **Full Stack Junior Developer** with strong IT and scientific background and some procedural programming and management experience.  
-I will express myself at best in an environment which:
-- values "doers": people who work hard, get passionate at their tasks and enjoy having something to show for their efforts,
-- embraces creativity, innovation and independence of thought,
-- emphasyse on delivering at high standards,
-- has management investing good effort on team building,
-- has an easy going office culture,
-- comes with new challenges everyday. 
 
-***
-  
 After 7 years of mapping the North Sea and other hydrographic jobs, I decided to drop the anchor and buy a restaurant in the Canary Island.  
 
 Things didnt't went as expected so, a year later, I sold everything and took a gap year in Thailand with my girlfriend - trying to create a trip vlog which had a ridicously bad outcome.  
