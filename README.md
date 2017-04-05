@@ -15,23 +15,31 @@ That is where I found this gem which is the Makers Academy 3 months web dev boot
 
 ***  
 ### Skills
+- **Humility**
 - **Analythical thinker and fast problem solver**
 - **Eagle eye and fast at understanding code**
 - **Curious and fast learner**
 - **Creative and innovator**
 - **Enthusiastic and passionated**
 - **Code craftmanship and thorough testing**
-- **Attention to detail**
-- **Numbers freak**
-- **Happy feedback receiver**
-- **Empathic colleague**
-- **High professionality and more than 5 years of consulting**
 - **High responsibility**
 - **Thrives under pressure**
 - **Sympathy with management humans**
-- **Italian, English and Spanish literate**
 
 ***
+#### Humility
+
+I can fail, I can be wrong, I am human and so prone to errors.
+But with every failure and being wrong, comes also lessons and chances of improvement. 
+
+I know that I have many areas in myself I need to improve e.g. difficulties in pairing.
+During the course I asked for feedback and some of my pairing partners said had difficulties working with me because I was patronizing them.
+
+This was difficult to hear but I am very grateful because I was able to make changes, for example, understand that such behaviour can be offending and, therefore, change the approach to share my knowledge with my peers.
+
+I realise these behaviours is partly as a result of being from a different cultural background, some language barriers and previous work experience where I was working alone, following a chain of command, etc.
+
+As a result of my actions, at the end of the course I received many compliments with the work I have done on myself.
 
 #### Analythical thinker and fast problem solver
 I have 8 years of experience on installing, configuring and fixing equipment and/or IT infrastructure.  
@@ -63,30 +71,6 @@ My mission as a coder is now to deliver the most "beatiful code" possible, meani
 
 TDD was another revelation: I found it so beatiful, helpfull and easy to code with tests on your side that I cannot think about surviving in this world without it.  
 
-#### Attention to detail
-I worked in situations where people were not given standards or nobody was paing attention to them, others where companies constrained the use of correct naming and log entries.
-Throught these experiences, I learned the importance of being a details maniac and consider your colleagues while working on a project. 
-
-On a vessel where I worked for a year, I have been given the task to write a manual for defining standards while at same time I developed a series of checklist for reducing errors and mantaining the quality of the work high.
-
-#### Numbers freak
-A good part of hydrographic surveying involves filtering data on statistic models (Standard Deviation and 95% confidence as basic examples) and this uncovered a part of me keen on statistics, data and playing with it in general.  
-
-When I buyed the restaurant, I suddenly started collecting the most data as possible, which then I used to redefine opening hours, personnel shifts, but also to redefine production or assess structural changes of the establishment.
-
-#### Happy feedback receiver
-I learned to positively receive feedback, even strong ones, deeply reflecting on them.  
-I am also naturally open to find lessons from any experience - there is always one.  
-
-#### Empathic colleague
-I like to guess on motivation behind behaviour of people and I always push in finding solutions to happily share this world with everyone - family, friends nad colleagues but strangers also - whenever possible.  
-  
-Living onboard vessels, 24 hours a day for usually a month, shoulder to shoulder with my workmates, sharing a cabin perhaps, really teached me on how to avoid major confrontation, keep character clash at a minimum and reach for a positive office environment.  
-
-#### High professionality and more than 5 years of consulting
-A list of people I am used to "feel breathing over my shoulders" includes clients rep from BP, Shell, Statoil and Dong Energy.  
-I learnt being comfortable in participating at meetings with such gents and/or overwatching the delivery of the final product to them  - organizing data usually based on client standard and summarizing reports on work methodology and results.  
-
 #### High responsibility 
 I am used to spend weeks in oil rigs safety zones - where any incident has an high risk of stopping oil production at least or catastrofic losses at worse - and be responsible for the positioning of Remotely Operated Vehicle and divers in underwater operations, near structures or in open seas.  
 
@@ -104,11 +88,7 @@ All of these has been more cool and challenging than stressfull - such a great a
 
 #### Sympathy with management humans
 Owning a restaurant for a year gave me some good insights on how difficult can managers life be.  
-Trying to be a "good" boss while constantly making choices and have to deal with their consequences (sometimes not happy), developed in myself an empathy with entrepreneurs.
-
-#### Italian, English and Spanish literate
-Italian mothertongue.  
-English and Spanish, fluent in spoken and written.  
+Trying to be a "good" boss while constantly making choices and have to deal with their consequences (sometimes not happy), developed in myself an empathy with entrepreneurs. 
 
 ***  
 ### <a name="projects">Projects & Code</a>
@@ -159,6 +139,10 @@ NB: I wasn't aged for the course so I couldn't graduate!!!
 
 #### Any other qualifications
 IELTS (Aug-2016): Overall Mark 7.5
+
+#### Languages
+Italian mothertongue
+Fluent in both English and Spanish
 
 ***  
 ### Experience
