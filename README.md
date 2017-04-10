@@ -22,8 +22,7 @@ That is where I found this gem which is the Makers Academy 3 months web dev boot
 - **Creative and innovator**
 - **Enthusiastic and passionated**
 - **Code craftmanship and thorough testing**
-- **High responsibility**
-- **Thrives under pressure**
+- **Thrives under pressure and high responsibility**
 - **Sympathy with management humans**
 
 ***
@@ -71,20 +70,12 @@ My mission as a coder is now to deliver the most "beatiful code" possible, meani
 
 TDD was another revelation: I found it so beatiful, helpfull and easy to code with tests on your side that I cannot think about surviving in this world without it.  
 
-#### High responsibility 
-I am used to spend weeks in oil rigs safety zones - where any incident has an high risk of stopping oil production at least or catastrofic losses at worse - and be responsible for the positioning of Remotely Operated Vehicle and divers in underwater operations, near structures or in open seas.  
+#### Thrives under pressure and high responsibility
+My 7 years as hidrographic surveyor were mostly 6am-6pm or 12-12 shifts, 7 days a week, usually 4 weeks on/off - flying somewhere in the world and work on new vessels, people, equipment, projects  
 
-Furthermore, I guided the deploy of features on empty seabeds or near structures and I found myself once in the position of redesigning the route of a flexible riser - a pipeline to platform connector.  
-
-Sorely, I was supporting divers operations at Gannett Alpha in August 2011 overwatching the biggest oil leak of North Sea.  
-
-#### Thrives under pressure
-My 7 years offshore were mostly flying somewhere in the world, get on new vessels and know new people, new systems, new organizations, new projects.  
-My shifts onboard were 6am-6pm or 12-12 or viceversa, 7 days a week, usually 4 weeks on/off.  
-
-Quite a few times I had managers around me reminding the cost of stopping or delaying operations - which usually was starting at tens of thousands per day.  
-  
-All of these has been more cool and challenging than stressfull - such a great adventure!  
+My position was very responsible.  
+On a project, my vessel was due to collect precedently identified unexploded ordnance (UXO) from WW2 and my job was to manage highly sensible GPS and subsea position equipment and to navigate the master.  
+Others tasks I found myself charged with high responsibilities was setup, mantain and manage positioning systems for correctly approach structures such as oil rigs or coordinating divers activities.  
 
 #### Sympathy with management humans
 Owning a restaurant for a year gave me some good insights on how difficult can managers life be.  
