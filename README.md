@@ -15,7 +15,7 @@ That is where I found this gem which is the Makers Academy 3 months web dev boot
 
 ***  
 ### Skills
-- **Humility**
+- **Self improvement**
 - **Analythical thinker and fast problem solver**
 - **Eagle eye and fast at understanding code**
 - **Curious and fast learner**
@@ -27,13 +27,13 @@ That is where I found this gem which is the Makers Academy 3 months web dev boot
 - **Sympathy with management humans**
 
 ***
-#### Humility
+#### Self improvement
 
 I can fail, I can be wrong, I am human and so prone to errors.
 But with every failure and being wrong, comes also lessons and chances of improvement. 
 
-I know that I have many areas in myself I need to improve e.g. difficulties in pairing.
-During the course I asked for feedback and some of my pairing partners said had difficulties working with me because I was patronizing them.
+I know that I have many areas in myself I need to improve, so I am always open or ask for feedback.  
+For example, during the course I asked for feedback and some of my pairing partners said had difficulties working with me because I was patronizing them.
 
 This was difficult to hear but I am very grateful because I was able to make changes, for example, understand that such behaviour can be offending and, therefore, change the approach to share my knowledge with my peers.
 
