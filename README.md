@@ -17,7 +17,6 @@ That is where I found this gem which is the Makers Academy 3 months web dev boot
 ### Skills
 - **Self improvement**
 - **Analythical thinker and fast problem solver**
-- **Eagle eye and fast at understanding code**
 - **Charmed by coding and fast learner**
 - **Thrives under pressure and high responsibility**
 
@@ -44,10 +43,6 @@ As an example, during the Makers Academy course, we were given with the task to 
 I started following what the code was doing, giving visibility to each interested line through logging.  
 This way, I was able to track the bug up to a faulty call in an external module.  
 Found the bug, I started trying the least amount of correction necessary to make the code work properly.  
-
-#### Eagle eye and fast at understanding code
-I start teaching myself how to program and use UNIX environments more than 10 years ago now, by picking up code and ideas on the web (StackOverflow, blogs, docs and man pages) or paper (O'Reilly).  
-This helped me developing an eye for code and the ability to quickly understand what the code is doing.  
 
 #### Charmed by coding and fast learner
 I am a curious person, charmed by coding with an ability to quickly learn new tools and the way they work.  
