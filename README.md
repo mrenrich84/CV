@@ -21,7 +21,6 @@ That is where I found this gem which is the Makers Academy 3 months web dev boot
 - **Curious and fast learner**
 - **Creative and innovator**
 - **Enthusiastic and passionated**
-- **Code craftmanship and thorough testing**
 - **Thrives under pressure and high responsibility**
 
 ***
@@ -58,16 +57,7 @@ One of the reason I started coding was to automatize tasks, at work or in my pri
 
 #### Enthusiastic and passionated
 I can be very passionated at the task I have been given, striving to deliver my best product.  
-Where I have seen others shy away from difficulties, I mostly take the challenge and push to overcome obstacles.  
-
-#### Code craftmanship and thorough testing
-During Makers Academy I falled in love with the concept of "beautiful code".
-My mission as a coder is now to deliver the most "beatiful code" possible, meaning code that is:
-- clear: code reads almost as plain English and it's flow can be quickly followed and understood;
-- elegant: code algorithms are neat and efficient at the same time;
-- malleable: code welcomes changes and extensions.
-
-TDD was another revelation: I found it so beatiful, helpfull and easy to code with tests on your side that I cannot think about surviving in this world without it.  
+Where I have seen others shy away from difficulties, I mostly take the challenge and push to overcome obstacles.   
 
 #### Thrives under pressure and high responsibility
 My 7 years as hidrographic surveyor were mostly 6am-6pm or 12-12 shifts, 7 days a week, usually 4 weeks on/off - flying somewhere in the world and work on new vessels, people, equipment, projects  
