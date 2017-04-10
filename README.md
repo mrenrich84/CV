@@ -23,7 +23,7 @@ That is where I found this gem which is the Makers Academy 3 months web dev boot
 ***
 #### Self improvement
 
-I can fail, I can be wrong, I am human and so prone to errors.
+I can fail, I can be wrong, I am human and so prone to errors.  
 But with every failure and being wrong, comes also lessons and chances of improvement. 
 
 I know that I have many areas in myself I need to improve, so I am always open or ask for feedback.  
