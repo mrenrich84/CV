@@ -23,7 +23,6 @@ That is where I found this gem which is the Makers Academy 3 months web dev boot
 - **Enthusiastic and passionated**
 - **Code craftmanship and thorough testing**
 - **Thrives under pressure and high responsibility**
-- **Sympathy with management humans**
 
 ***
 #### Self improvement
@@ -76,10 +75,6 @@ My 7 years as hidrographic surveyor were mostly 6am-6pm or 12-12 shifts, 7 days 
 My position was very responsible.  
 On a project, my vessel was due to collect precedently identified unexploded ordnance (UXO) from WW2 and my job was to manage highly sensible GPS and subsea position equipment and to navigate the master.  
 Others tasks I found myself charged with high responsibilities was setup, mantain and manage positioning systems for correctly approach structures such as oil rigs or coordinating divers activities.  
-
-#### Sympathy with management humans
-Owning a restaurant for a year gave me some good insights on how difficult can managers life be.  
-Trying to be a "good" boss while constantly making choices and have to deal with their consequences (sometimes not happy), developed in myself an empathy with entrepreneurs. 
 
 ***  
 ### <a name="projects">Projects & Code</a>
