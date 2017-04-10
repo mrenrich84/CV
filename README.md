@@ -7,10 +7,10 @@ I am a **Full Stack Junior Developer** with strong IT and scientific background 
 
 After 7 years of mapping the North Sea and similar hydrographic jobs, I felt ready for a bigger adventure and bought a restaurant in the Canary Island.  
 
-Being an owner and a manager, it has been a huge experience.  
+Being an owner and a manager, it has been a huge experience, learning on how to lead a team while at the same time manage the business at various levels.
 However things didn't turned out as expected, so me and my girlfriend packed up for a gap year in Thailand and around.  
 
-Back in Europe, I felt my old profession was not fullfilling me anymore so I started looking around.  
+Back in Europe, I felt my previous professions were not fullfilling me anymore so I started looking around.  
 That is where I found this gem which is the Makers Academy 3 months web dev bootcamp and learned I am a born-to-be developer with exceptional interests on producing "beatiful code". 
 
 ***  
