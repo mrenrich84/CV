@@ -20,7 +20,6 @@ That is where I found this gem which is the Makers Academy 3 months web dev boot
 - **Eagle eye and fast at understanding code**
 - **Curious and fast learner**
 - **Creative and innovator**
-- **Enthusiastic and passionated**
 - **Thrives under pressure and high responsibility**
 
 ***
@@ -51,16 +50,8 @@ I am a curious person with an ability to quickly learn new tools and the way the
 For fun, in my early 20s, I learned how to use Linux systems and some Perl scripting.  
 So when I moved into an hydrographic consultancy startup firm, managers were happy to let me manage the IT system, where I built up a Debian server offering VPN, file sharing and MySQL services.  
 
-#### Creative and innovator
-When I see a problem, I cannot stop my mind in pitching solutions and find new method to accomplish task.    
-One of the reason I started coding was to automatize tasks, at work or in my private life.  
-
-#### Enthusiastic and passionated
-I can be very passionated at the task I have been given, striving to deliver my best product.  
-Where I have seen others shy away from difficulties, I mostly take the challenge and push to overcome obstacles.   
-
 #### Thrives under pressure and high responsibility
-My 7 years as hidrographic surveyor were mostly 6am-6pm or 12-12 shifts, 7 days a week, usually 4 weeks on/off - flying somewhere in the world and work on new vessels, people, equipment, projects  
+My 7 years as hydrographic surveyor were mostly 6am-6pm or 12-12 shifts, 7 days a week, usually 4 weeks on/off - flying somewhere in the world and work on new vessels, people, equipment, projects  
 
 My position was very responsible.  
 On a project, my vessel was due to collect precedently identified unexploded ordnance (UXO) from WW2 and my job was to manage highly sensible GPS and subsea position equipment and to navigate the master.  
