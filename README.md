@@ -47,9 +47,9 @@ I start teaching myself how to program and use UNIX environments more than 10 ye
 This helped me developing an eye for code and the ability to quickly understand what the code is doing.  
 
 #### Curious and fast learner
-I am a curious person very happy to vary and explore in normal life.
-This pleasure in changings developed an ability in me to quickly learn new tools and the way they work.  
-For fun or for work, many times I picked up tasks and learned how to accomplish them in Linux, Perl, Python, VBA, R, Google Apps Script, etc  
+I am a curious person with an ability to quickly learn new tools and the way they work.  
+For fun, in my early 20s, I learned how to use Linux systems and some Perl scripting.  
+So when I moved into an hydrographic consultancy startup firm, managers were happy to let me manage the IT system, where I built up a Debian server offering VPN, file sharing and MySQL services.  
 
 #### Creative and innovator
 When I see a problem, I cannot stop my mind in pitching solutions and find new method to accomplish task.    
