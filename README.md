@@ -18,8 +18,7 @@ That is where I found this gem which is the Makers Academy 3 months web dev boot
 - **Self improvement**
 - **Analythical thinker and fast problem solver**
 - **Eagle eye and fast at understanding code**
-- **Curious and fast learner**
-- **Creative and innovator**
+- **Charmed by coding and fast learner**
 - **Thrives under pressure and high responsibility**
 
 ***
@@ -41,14 +40,15 @@ As a result of my actions, at the end of the course I received many compliments 
 I have 8 years of experience on installing, configuring and fixing equipment and/or IT infrastructure.  
 This, plus 10 years of coding for fun, developed myself as a strong analythical thinker, quickly dissecting how things works, isolating processes and unearth connections, leading to quarantine issues and promptly solve them.  
 
+
 #### Eagle eye and fast at understanding code
 I start teaching myself how to program and use UNIX environments more than 10 years ago now, by picking up code and ideas on the web (StackOverflow, blogs, docs and man pages) or paper (O'Reilly).  
 This helped me developing an eye for code and the ability to quickly understand what the code is doing.  
 
-#### Curious and fast learner
-I am a curious person with an ability to quickly learn new tools and the way they work.  
-For fun, in my early 20s, I learned how to use Linux systems and some Perl scripting.  
-So when I moved into an hydrographic consultancy startup firm, managers were happy to let me manage the IT system, where I built up a Debian server offering VPN, file sharing and MySQL services.  
+#### Charmed by coding and fast learner
+I am a curious person, charmed by coding with an ability to quickly learn new tools and the way they work.  
+For fun, i.e., I learned how to use VBA in a couple of weeks.  
+During my career, I used this skill to create several tools, like automating procedures in Excel or create special functionalities in Ms Access.  
 
 #### Thrives under pressure and high responsibility
 My 7 years as hydrographic surveyor were mostly 6am-6pm or 12-12 shifts, 7 days a week, usually 4 weeks on/off - flying somewhere in the world and work on new vessels, people, equipment, projects  
