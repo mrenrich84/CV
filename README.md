@@ -37,9 +37,13 @@ I realise these behaviours is partly as a result of being from a different cultu
 As a result of my actions, at the end of the course I received many compliments with the work I have done on myself.
 
 #### Analythical thinker and fast problem solver
-I have 8 years of experience on installing, configuring and fixing equipment and/or IT infrastructure.  
-This, plus 10 years of coding for fun, developed myself as a strong analythical thinker, quickly dissecting how things works, isolating processes and unearth connections, leading to quarantine issues and promptly solve them.  
+I have 10 years of experience on installing, configuring and fixing equipment, IT infrastructure and some coding. 
+I am used to identify the problem and dissect how things work together.  
 
+As an example, during the Makers Academy course, we were given with the task to debug an error.  
+I started following what the code was doing, giving visibility to each interested line through logging.  
+This way, I was able to track the bug up to a faulty call in an external module.  
+Found the bug, I started trying the least amount of correction necessary to make the code work properly.  
 
 #### Eagle eye and fast at understanding code
 I start teaching myself how to program and use UNIX environments more than 10 years ago now, by picking up code and ideas on the web (StackOverflow, blogs, docs and man pages) or paper (O'Reilly).  
@@ -47,6 +51,7 @@ This helped me developing an eye for code and the ability to quickly understand 
 
 #### Charmed by coding and fast learner
 I am a curious person, charmed by coding with an ability to quickly learn new tools and the way they work.  
+
 For fun, i.e., I learned how to use VBA in a couple of weeks.  
 During my career, I used this skill to create several tools, like automating procedures in Excel or create special functionalities in Ms Access.  
 
