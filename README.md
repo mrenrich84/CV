@@ -7,7 +7,7 @@ I am a **Full Stack Junior Developer** with strong IT and scientific background 
 
 After 7 years of mapping the North Sea and others marine surveyor jobs, I felt ready for a bigger adventure and bought a restaurant in the Canary Island.  
 
-Being an owner and a manager, it has been a huge experience, learning on how to lead a team while at the same time manage the business at various levels.  
+Being an owner and a manager, it has been a huge experience, having the opportunity to lead a team while at the same time manage the business at various levels.  
 However things didn't turned out as expected, so me and my girlfriend packed up for a gap year in Thailand and around.  
 
 Back in Europe, I felt my previous professions were not fullfilling me anymore so I started looking around.  
@@ -55,7 +55,7 @@ My 7 years as hydrographic surveyor consultant were mostly 6am-6pm or 12-12 shif
 
 My position was at an high profile.  
 On a project, my vessel was due to collect precedently identified unexploded ordnance (UXO) from WW2 - my responsibilities were to manage highly sensible GPS and subsea positioning equipment and to navigate the master to these ordnance.  
-Others tasks I found myself charged with was setup, mantain and manage positioning systems for correctly approach structures such as oil rigs or coordinate divers and ROV activities.  
+Others tasks I had the opportunity to manage were setup, mantain and manage positioning systems for correctly approach structures such as oil rigs or coordinate divers and ROV activities.  
 
 ***  
 ### <a name="projects">Projects & Code</a>
