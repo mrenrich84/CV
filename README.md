@@ -8,15 +8,15 @@ I am a **Full Stack Junior Developer** with strong IT and scientific background 
 After 7 years of charting the North Sea and others marine surveyor jobs, I felt ready for a bigger adventure and bought a restaurant in the Canary Island.  
 
 Being an owner and a manager, it has been a huge experience, having the opportunity to lead a team while at the same time manage the business at various levels.  
-However things didn't turned out as expected, so me and my girlfriend packed up for a gap year in Thailand and around.  
+However things didn't turn out as expected, therefore me and my girlfriend packed up for a gap year in Thailand and around.  
 
-Back in Europe, I felt my previous professions were not fullfilling me anymore so I started looking around.  
-That is where I found this gem which is the Makers Academy 3 months web dev bootcamp and learned I am a born-to-be developer with exceptional interests on producing "beatiful code". 
+Back in Europe, I felt my previous professions were not fulfilling me anymore so I started looking around.  
+That is where I found this gem which is the Makers Academy 3 months web dev boot camp and learned I am a born-to-be developer with exceptional interests on producing "beautiful code". 
 
 ***  
 ### Skills
-- **Self improvement**
-- **Analythical thinker and fast problem solver**
+- **Self-improvement**
+- **Analytical thinker and fast problem solver**
 - **Charmed by coding and fast learner**
 - **Thrives under pressure and high responsibility**
 
@@ -27,19 +27,19 @@ I can fail, I can be wrong, I am human and so prone to errors.
 But with every failure and being wrong, comes also lessons and chances of improvement. 
 
 I know that I have many areas in myself I need to improve, so I am always open or ask for feedback.  
-For example, during the course I asked for feedback and some of my pairing partners said had difficulties working with me because I was patronizing them.
+For example, during the course, I asked for feedback and some of my pairing partners said had difficulties working with me because I was patronising them.
 
-This was difficult to hear but I am very grateful because I was able to improve myself, for example, understand that such behaviour can be offending and, therefore, change the approach to share my knowledge with my peers.
+This was difficult to hear but I am very grateful because I was able to improve myself, for example, understand that such behaviour can be offending and, therefore, change the approach to sharing my knowledge with my peers.
 
 I realise these behaviours is partly as a result of being from a different cultural background, some language barriers and previous work experience where I was working alone, following a chain of command, etc.
 
-As a result of my actions, at the end of the course I received many compliments with the work I have done on myself.
+As a result of my actions, at the end of the course, I received many compliments on the work I have done on myself.
 
-#### Analythical thinker and fast problem solver
-I have 10 years of experience on installing, configuring and fixing equipment, IT infrastructure and some coding.   
-I am used to identify problems and dissect how things work together.  
+#### Analytical thinker and fast problem solver
+I have 10 years of experience in installing, configuring and fixing equipment, IT infrastructure and some coding.   
+I am used to identifying problems and dissecting how things work together.  
 
-As an example, during the Makers Academy course, we were given with the task to debug an error.  
+As an example, during the Makers Academy course, we were given the task to debug an error.  
 I started following what the code was doing, giving visibility to each interested line through logging.  
 This way, I was able to track the bug up to a faulty call in an external module.  
 Found the bug, I started trying the least amount of correction necessary to make the code work properly until the software ran as expected.  
@@ -53,9 +53,9 @@ During my career, I used this skill to create several tools, like automating pro
 #### Thrives under pressure and high responsibility
 My 7 years as hydrographic surveyor consultant were mostly 6am-6pm or 12-12 shifts, 7 days a week, usually 4 weeks on/off - flying somewhere in the world and work on new vessels, people, equipment, projects  
 
-My position was at an high profile.  
-On a project, my vessel was due to collect precedently identified unexploded ordnance (UXO) from WW2 - my responsibilities were to manage highly sensible GPS and subsea positioning equipment and to navigate the master to these ordnance.  
-Others tasks I had the opportunity to manage were setup, mantain and manage positioning systems for correctly approach structures such as oil rigs or coordinate divers and ROV activities.  
+My position was at a high profile.  
+On a project, my vessel was due to collect precedently identified unexploded ordnances (UXO) from WW2 - my responsibilities were to manage highly sensible GPS and subsea positioning equipment and to navigate the master to these ordnances.  
+Others tasks I had the opportunity to manage were setting up, maintain and manage positioning systems for correctly approach structures such as oil rigs or coordinate divers and ROV activities.  
 
 ***  
 ### <a name="projects">Projects & Code</a>
@@ -70,7 +70,7 @@ Others tasks I had the opportunity to manage were setup, mantain and manage posi
 #### Old Projects
 | Project                            | Description                                                                                                                                                                          | Code/Demo Links | Technologies Used              | Year | 
 |------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|--------------------------------|------| 
-| Offshore CV                        | A DB to easily update my work experience producing statistics on work type and equipments used                                                                                       | ![Man at work](https://raw.githubusercontent.com/mrenrich84/CV/master/img/man_at_work.png) Coming soon!!!    | Ms Access, VBA                 | 2014 | 
+| Offshore CV                        | A DB to easily update my work experience producing statistics on work type and equipment used                                                                                       | ![Man at work](https://raw.githubusercontent.com/mrenrich84/CV/master/img/man_at_work.png) Coming soon!!!    | Ms Access, VBA                 | 2014 | 
 | Enrico CTD form 20120828.xlsm      | Automatize processing and reporting of CTD probes.                                                                                                                                   | ![Man at work](https://raw.githubusercontent.com/mrenrich84/CV/master/img/man_at_work.png) Coming soon!!!    | VBA                            | 2012 | 
 | Geoteam Office Server Installation | Debian server offering file sharing with automatic backup and VPN access                                                                                                             | ![Man at work](https://raw.githubusercontent.com/mrenrich84/CV/master/img/man_at_work.png) Coming soon!!!    | Debian, Samba, Hamachi         | 2010 | 
 
@@ -95,25 +95,25 @@ NB: I wasn't aged for the course so I couldn't graduate!!!
 #### J.J. Rousseau High School (2001)
 
 - Community Leader (comparable to GCE Advanced / GCSE A-C / BTEC Level 3 D-ED)
-- Studies covered humanistic sciences, giving the alumn basic knowledge for taking a leading position in any kind of social community, from business to public to NGOs
+- Studies covered humanistic sciences, giving the student basic knowledge for taking a leading position in any kind of social community, from business to public to NGOs
 - Mark: 77/100 
 
 #### Any other qualifications
 IELTS (Aug-2016): Overall Mark 7.5
 
 #### Languages
-Italian mothertongue  
+Italian mother tongue  
 Fluent in both English and Spanish
 
 ***  
 ### Experience
 
-| COMPANY                 | PERIOD            | POSITION                                                             | 		
-|-------------------------|-------------------|----------------------------------------------------------------------| 		
-| Pizzeria da Fabbio      | 09-2014 - 08-2015 | Restaurant Owner & Manager                                           | 		
-| Consultant              | 08-2010 – 2015    | Senior Hydrographic Surveyor, Survey Engineer                        | 		
-| Geoteam srl, Rome       | 04-2008 – 07-2010 | Hydrographic Surveyor, Assistant Survey Engineer, IT Administrator   | 		
-| Microbusiness srl, Rome | 01-2006 – 03-2008 | IT Technician                                                        | 		
+| COMPANY                 | PERIOD            | POSITION                                                             |         
+|-------------------------|-------------------|----------------------------------------------------------------------|         
+| Pizzeria da Fabbio      | 09-2014 - 08-2015 | Restaurant Owner & Manager                                           |         
+| Consultant              | 08-2010 – 2015    | Senior Hydrographic Surveyor, Survey Engineer                        |         
+| Geoteam srl, Rome       | 04-2008 – 07-2010 | Hydrographic Surveyor, Assistant Survey Engineer, IT Administrator   |         
+| Microbusiness srl, Rome | 01-2006 – 03-2008 | IT Technician                                                        |         
 
 #### Pizzeria da Fabbio: Owner – Restaurant Manager (09-2014 - 08-2015)  
 
@@ -127,12 +127,12 @@ Duties & Responsibilities:
 #### Consultant: Senior Hydrographic Surveyor, Survey Engineer    (08-2010 - 2015)
 #### Geoteam:    Hydrographic Surveyor, Assistant Survey Engineer (04-2008 – 07-2010)
 
-While consultant, worked for subcontractors of BP, Shell, Statoil, Dong, Alcatel, etc.
+While a consultant worked for subcontractors of BP, Shell, Statoil, Dong, Alcatel, etc.
 
 Duties & Responsibilities:
 - Engineering vessels: cablings; equipment installation, testing and calibration, troubleshooting; manage shippings
-- Data collection: acquiring sensor data through specialized software for several projects: hydrography and seismic surveys; vessel, features, divers and ROV positioning
-- Processing of data collected with specialized software, Ms Office, Autocad and GIS, mainly using statistical method
+- Data collection: acquiring sensor data through specialised software for several projects: hydrography and seismic surveys; vessel, features, divers and ROV positioning
+- Processing of data collected with specialised software, Ms Office, Autocad and GIS, mainly using statistical method
 - Reporting and QC using Ms Office
 - Writing small script with VBA, Perl and Python
 
@@ -146,15 +146,15 @@ Duties & Responsibilities:
   - clients: Windows XP machines interfaced with the server and Ms Office integrated with MySQL
 - Writing reports and technical support
 - Demonstrated an integration between AutoCAD and PostgreSQL GIS for saving the company from spending an unnecessary amount of money on other technologies
-- Cracked network and systems, collecting managers' passwords and sensible data to demonstrate the need of a budget increase in the IT department
+- Cracked network and systems, collecting managers' passwords and sensible data to demonstrate the need for a budget increase in the IT department
 
 ***  
 ### <a name="interests">Interests</a>
 
-Computer gaming, tech stuff and all that is geek!  
-Music, photography and videomaking  
+Computer gaming, tech stuff and all that is geeky!  
+Music, photography and video making  
 Traveling  
-Sports: football, surf, american football  
+Sports: football, surf, American football  
 
 ***
 
