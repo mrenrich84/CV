@@ -5,7 +5,7 @@
 
 I am a **Full Stack Junior Developer** with strong IT and scientific background and some procedural programming and management experience.  
 
-After 7 years of mapping the North Sea and others marine surveyor jobs, I felt ready for a bigger adventure and bought a restaurant in the Canary Island.  
+After 7 years of charting the North Sea and others marine surveyor jobs, I felt ready for a bigger adventure and bought a restaurant in the Canary Island.  
 
 Being an owner and a manager, it has been a huge experience, having the opportunity to lead a team while at the same time manage the business at various levels.  
 However things didn't turned out as expected, so me and my girlfriend packed up for a gap year in Thailand and around.  
