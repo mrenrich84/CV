@@ -5,7 +5,7 @@
 
 I am a **Full Stack Junior Developer** with strong IT and scientific background and some procedural programming and management experience.  
 
-After 7 years of mapping the North Sea and similar hydrographic jobs, I felt ready for a bigger adventure and bought a restaurant in the Canary Island.  
+After 7 years of mapping the North Sea and others marine surveyor jobs, I felt ready for a bigger adventure and bought a restaurant in the Canary Island.  
 
 Being an owner and a manager, it has been a huge experience, learning on how to lead a team while at the same time manage the business at various levels.  
 However things didn't turned out as expected, so me and my girlfriend packed up for a gap year in Thailand and around.  
@@ -29,33 +29,33 @@ But with every failure and being wrong, comes also lessons and chances of improv
 I know that I have many areas in myself I need to improve, so I am always open or ask for feedback.  
 For example, during the course I asked for feedback and some of my pairing partners said had difficulties working with me because I was patronizing them.
 
-This was difficult to hear but I am very grateful because I was able to make changes, for example, understand that such behaviour can be offending and, therefore, change the approach to share my knowledge with my peers.
+This was difficult to hear but I am very grateful because I was able to improve myself, for example, understand that such behaviour can be offending and, therefore, change the approach to share my knowledge with my peers.
 
 I realise these behaviours is partly as a result of being from a different cultural background, some language barriers and previous work experience where I was working alone, following a chain of command, etc.
 
 As a result of my actions, at the end of the course I received many compliments with the work I have done on myself.
 
 #### Analythical thinker and fast problem solver
-I have 10 years of experience on installing, configuring and fixing equipment, IT infrastructure and some coding. 
-I am used to identify the problem and dissect how things work together.  
+I have 10 years of experience on installing, configuring and fixing equipment, IT infrastructure and some coding.   
+I am used to identify problems and dissect how things work together.  
 
 As an example, during the Makers Academy course, we were given with the task to debug an error.  
 I started following what the code was doing, giving visibility to each interested line through logging.  
 This way, I was able to track the bug up to a faulty call in an external module.  
-Found the bug, I started trying the least amount of correction necessary to make the code work properly.  
+Found the bug, I started trying the least amount of correction necessary to make the code work properly until the software ran as expected.  
 
 #### Charmed by coding and fast learner
 I am a curious person, charmed by coding with an ability to quickly learn new tools and the way they work.  
 
 For fun, i.e., I learned how to use VBA in a couple of weeks.  
-During my career, I used this skill to create several tools, like automating procedures in Excel or create special functionalities in Ms Access.  
+During my career, I used this skill to create several tools, like automating procedures in Excel or create special functionalities in Ms Access databases.  
 
 #### Thrives under pressure and high responsibility
-My 7 years as hydrographic surveyor were mostly 6am-6pm or 12-12 shifts, 7 days a week, usually 4 weeks on/off - flying somewhere in the world and work on new vessels, people, equipment, projects  
+My 7 years as hydrographic surveyor consultant were mostly 6am-6pm or 12-12 shifts, 7 days a week, usually 4 weeks on/off - flying somewhere in the world and work on new vessels, people, equipment, projects  
 
-My position was very responsible.  
-On a project, my vessel was due to collect precedently identified unexploded ordnance (UXO) from WW2 and my job was to manage highly sensible GPS and subsea position equipment and to navigate the master.  
-Others tasks I found myself charged with high responsibilities was setup, mantain and manage positioning systems for correctly approach structures such as oil rigs or coordinating divers activities.  
+My position was at an high profile.  
+On a project, my vessel was due to collect precedently identified unexploded ordnance (UXO) from WW2 - my responsibilities were to manage highly sensible GPS and subsea positioning equipment and to navigate the master to these ordnance.  
+Others tasks I found myself charged with was setup, mantain and manage positioning systems for correctly approach structures such as oil rigs or coordinate divers and ROV activities.  
 
 ***  
 ### <a name="projects">Projects & Code</a>
@@ -102,7 +102,7 @@ NB: I wasn't aged for the course so I couldn't graduate!!!
 IELTS (Aug-2016): Overall Mark 7.5
 
 #### Languages
-Italian mothertongue
+Italian mothertongue  
 Fluent in both English and Spanish
 
 ***  
