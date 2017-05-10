@@ -54,7 +54,7 @@ During my career, I used this skill to create several tools, like automating pro
 My 7 years as hydrographic surveyor consultant were mostly 6am-6pm or 12-12 shifts, 7 days a week, usually 4 weeks on/off - flying somewhere in the world and work on new vessels, people, equipment, projects  
 
 My position was at a high profile.  
-On a project, my vessel was due to collect precedently identified unexploded ordnances (UXO) from WW2 - my responsibilities were to manage highly sensible GPS and subsea positioning equipment and to navigate the master to these ordnances.  
+On a project, my vessel was due to collect precedently identified unexploded ordnances (UXO) from WW2 - my responsibilities were to manage highly sensible GPS and subsea positioning equipment and to navigate the master to these ordnances.  s
 Others tasks I had the opportunity to manage were setting up, maintain and manage positioning systems for correctly approach structures such as oil rigs or coordinate divers and ROV activities.  
 
 ***  
@@ -62,7 +62,8 @@ Others tasks I had the opportunity to manage were setting up, maintain and manag
 #### After Makers Academy Projects
 | Project        | Description                                                               | Code/Demo Links                                | Technologies Used                               | 
 |----------------|---------------------------------------------------------------------------|------------------------------------------------|-------------------------------------------------| 
-| Notes          | A single page web app where me and a colleague created our own testing framework      | [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][4] | NodeJS, CadillacJS (in-house testing framework) |
+| Zombie Apocalypse          | Zombie Apocalypse is a mini First Person Shooter made in less than 24 hours for the VR Game Jam Hackathon      | [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][8] | HTML5, Javascript and A-Frame |
+
 #### Makers Academy Projects
 | Project        | Description                                                               | Code/Demo Links                                | Technologies Used                               | 
 |----------------|---------------------------------------------------------------------------|------------------------------------------------|-------------------------------------------------| 
