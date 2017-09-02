@@ -2,16 +2,28 @@
 [About me](#about_me) | [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact)  
 ***
 ### <a name="about_me">About me</a>
+Hey :)
 
-I am a **Full Stack Junior Developer** with strong IT and scientific background and some procedural programming and management experience.  
+I'm Enrico, a **Full Stack Junior Developer** with strong IT and scientific background and some management experience.  
 
-After 7 years of charting the North Sea and others marine surveyor jobs, I felt ready for a bigger adventure and bought a restaurant in the Canary Island.  
+I have a mixed bold love-hate feeling for **NodeJS**, especially when writing (and testing!) **ReactJS** - **API** coding IS fun!  
+I am very fascinated by the **OOA&D, SOLID, TDD and "beatiful code"** subjects.  
+I also have a **solid knowledge of IT administration, SQL and DB analysis, GIS** and experience with other languages such as **Python**, **VBA** and **Ruby**.
 
-Being an owner and a manager, it has been a huge experience, having the opportunity to lead a team while at the same time manage the business at various levels.  
-However things didn't turn out as expected, therefore me and my girlfriend packed up for a gap year in Thailand and around.  
+***
+### <a name="history"></a>
+In my early 20s, for personal amusement, I **self-taught** myself **Linux administration**, and **Bash and Perl** scripting.  
+That led me to [have been working as an IT technician and administrator](#it_admin) for 4 years.
 
-Back in Europe, I felt my previous professions were not fulfilling me anymore so I started looking around.  
-That is where I found this gem which is the Makers Academy 3 months web dev boot camp and learned I am a born-to-be developer with exceptional interests on producing "beautiful code". 
+After this job I spent several years working as a marine surveyor, like charting seabeds or supporting marine projects development - oil & gas, wind farms, telecomunications...  
+I also owned a restaurant in the Canary Island for a year.  
+During these years I **self learned** new skills in **VBA, Python, SQL (M$ Access) and GIS**.
+
+I then went to a bootcamp from this amazing organization which is **Makers Academy** where I graduated on March 2017.  
+There, I was amused by lots amazing coding techniques: **TDD. SOLID, software craftsmanship and clean code** but also **Agile** development.
+
+Now I'm **looking for a great team** of people which will help me in **improving my knowledge** and **become a great Software Craftsman**, hoping to put my expertise at best use for our clients!
+
 
 ***  
 ### Skills
@@ -141,6 +153,7 @@ Duties & Responsibilities:
 - Reporting and QC using Ms Office
 - Writing small script with VBA, Perl and Python
 
+### <a name="it_admin"></a>
 #### Geoteam: IT Administrator (04-2008 – 07-2010)
 #### Microbusiness: IT Technician (01-2006 – 03-2008)
 
