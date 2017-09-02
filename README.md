@@ -6,67 +6,66 @@ Hey :)
 
 I'm Enrico, a **Full Stack Junior Developer** with strong IT and scientific background and some management experience.  
 
-I have a mixed bold love-hate feeling for **NodeJS**, especially when writing (and testing!) **ReactJS** - **API** coding IS fun!  
+I have a mixed, bold, love-hate feeling for **NodeJS**, especially when writing (and testing!) **ReactJS** - **API** coding with **TDD** IS just fun!  
 I am very fascinated by the **OOA&D, SOLID, TDD and "beatiful code"** subjects.  
 I also have a **solid knowledge of IT administration, SQL and DB analysis, GIS** and experience with other languages such as **Python**, **VBA** and **Ruby**.
 
+I am a very relaxed and easy going person, looking forward to work in an **Agile** environment.
 ***
 ### <a name="history"></a>
-In my early 20s, for personal amusement, I **self-taught** myself **Linux administration**, and **Bash and Perl** scripting.  
+In my early 20s, for personal amusement, I **self-taught** myself **Linux, Windows and net administration**, but also **Bash and Perl** scripting.  
 That led me to [have been working as an IT technician and administrator](#it_admin) for 4 years.
 
 After this job I spent several years working as a marine surveyor, like charting seabeds or supporting marine projects development - oil & gas, wind farms, telecomunications...  
 I also owned a restaurant in the Canary Island for a year.  
-During these years I **self learned** new skills in **VBA, Python, SQL (M$ Access) and GIS**.
+During these years I **self learned** new skills, among many, **VBA, Python, SQL (M$ Access) and GIS**.
 
-I then went to a bootcamp from this amazing organization which is **Makers Academy** where I graduated on March 2017.  
-There, I was amused by lots amazing coding techniques: **TDD. SOLID, software craftsmanship and clean code** but also **Agile** development.
+I then went to the **bootcamp** of this amazing organization which is **Makers Academy** where I graduated on March 2017.  
+There, I was amused by lots amazing coding techniques: **TDD, SOLID, software craftsmanship and clean code** but also **Agile** development.
 
 Now I'm **looking for a great team** of people which will help me in **improving my knowledge** and **become a great Software Craftsman**, hoping to put my expertise at best use for our clients!
 
 
 ***  
 ### Skills
-- **Self-improvement**
+- **Self-improvement and feedback-taker**
 - **Analytical thinker and fast problem solver**
 - **Charmed by coding and fast learner**
 - **Thrives under pressure and high responsibility**
 
 ***
-#### Self improvement
+#### Self improvement and feedback-taker
 
-I can fail, I can be wrong, I am human and so prone to errors.  
-But with every failure and being wrong, comes also lessons and chances of improvement. 
+I can fail, I can be wrong, I am human and so prone to errors: everyone of them is a lesson and chances of improvement. 
+That's why I'm always open for feedback.  
 
-I know that I have many areas in myself I need to improve, so I am always open or ask for feedback.  
-For example, during the course, I asked for feedback and some of my pairing partners said had difficulties working with me because I was patronising them.
+During the course, I asked for feedback to all my colleagues.  
+Some replied that had difficulties working with me because I was patronising them.  
+This was difficult to hear, but I am very grateful because from their comment I was able to improve myself.  
 
-This was difficult to hear but I am very grateful because I was able to improve myself, for example, understand that such behaviour can be offending and, therefore, change the approach to sharing my knowledge with my peers.
-
-I realise these behaviours is partly as a result of being from a different cultural background, some language barriers and previous work experience where I was working alone, following a chain of command, etc.
-
-As a result of my actions, at the end of the course, I received many compliments on the work I have done on myself.
+In that case, understand that such behaviour can be offending to some and, therefore, change the approach to sharing my knowledge with my peers.  
+As a result of my actions taken, at the end of the course, I received many compliments on the work I have done on myself.
 
 #### Analytical thinker and fast problem solver
 I have 10 years of experience in installing, configuring and fixing equipment, IT infrastructure and some coding.   
 I am used to identifying problems and dissecting how things work together.  
 
 As an example, during the Makers Academy course, we were given the task to debug an error.  
-I started following what the code was doing, giving visibility to each interested line through logging.  
+I started following what the code was doing, giving visibility to each interested line through console logging.  
 This way, I was able to track the bug up to a faulty call in an external module.  
 Found the bug, I started trying the least amount of correction necessary to make the code work properly until the software ran as expected.  
 
 #### Charmed by coding and fast learner
-I am a curious person, charmed by coding with an ability to quickly learn new tools and the way they work.  
+I am very curious, charmed by coding with an innate ability to quickly learn new tools and the way they work.  
 
 For fun, i.e., I learned how to use VBA in a couple of weeks.  
 During my career, I used this skill to create several tools, like automating procedures in Excel or create special functionalities in Ms Access databases.  
 
 #### Thrives under pressure and high responsibility
-My 7 years as hydrographic surveyor consultant were mostly 6am-6pm or 12-12 shifts, 7 days a week, usually 4 weeks on/off - flying somewhere in the world and work on new vessels, people, equipment, projects  
+My 7 years as hydrographic surveyor consultant were mostly 6am-6pm or 12-12 shifts, 7 days a week, usually 4 weeks on/off - flying somewhere in the world and work on new vessels, people, equipment, projects...  
 
 My position was at a high profile.  
-On a project, my vessel was due to collect precedently identified unexploded ordnances (UXO) from WW2 - my responsibilities were to manage highly sensible GPS and subsea positioning equipment and to navigate the master to these ordnances.  s
+On a project, my vessel was due to collect precedently identified unexploded ordnances (UXO) from WW2 - my responsibilities were to manage highly sensible GPS and subsea positioning equipment and to navigate the master to these ordnances.  
 Others tasks I had the opportunity to manage were setting up, maintain and manage positioning systems for correctly approach structures such as oil rigs or coordinate divers and ROV activities.  
 
 ***  
