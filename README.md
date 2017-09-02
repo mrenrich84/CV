@@ -62,7 +62,7 @@ For fun, i.e., I learned how to use VBA in a couple of weeks.
 During my career, I used this skill to create several tools, like automating procedures in Excel or create special functionalities in Ms Access databases.  
 
 #### Thrives under pressure and high responsibility
-As an hydrographic (marine) surveyor consultant, my job is  mostly 6am-6pm or 12-12 shifts, 7 days a week, usually 4 weeks on/off - flying somewhere in the world and work on new vessels, people, equipment, projects...  
+As an hydrographic (marine) surveyor consultant, my job is  mostly 6-6 or 12-12 day/night shifts, 7 days a week, usually 4 weeks on/off - flying somewhere in the world and work on new vessels, people, equipment, projects...  
 
 My position is at an high profile.  
 On a project, the vessel was due to collect precedently identified unexploded ordnances (UXO) from WW2 - my responsibilities were to manage highly sensible GPS and subsea positioning equipment for supporting UXOs recovering.  
