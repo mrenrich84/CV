@@ -8,7 +8,7 @@ I'm Enrico, a **Full Stack Junior Developer** with strong IT and scientific back
 
 I have a mixed, bold, love-hate feeling for **NodeJS**, especially when writing (and testing!) **ReactJS** - **API** coding with **TDD** IS just fun!  
 I am very fascinated by the **OOA&D, SOLID, TDD and "beatiful code"** subjects.  
-I also have a **solid knowledge of IT administration, GIS, SQL and DB analysis** and experience with other languages such as **Python**, **VBA** and **Ruby** and of course also some knowledge in **HTML5 and CSS3**.
+I have a some knowledge in **HTML5 and CSS3**, experience with other languages such as **Python**, **VBA** and **Ruby** and also a **solid knowledge of IT administration, GIS, SQL and DB analysis**.
 
 I am a very relaxed and easy going person, looking forward to work in an **Agile** environment.
 ***
