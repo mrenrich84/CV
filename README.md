@@ -12,11 +12,12 @@ I have some knowledge in **HTML5 and CSS3**, experience with other languages suc
 
 I am a very relaxed and easy going person, looking forward to work in an **Agile** environment.
 ***
-### <a name="history"></a>
+### <a name="history">Bio</a>  
+
 In my early 20s, for personal amusement, I **self-taught** myself **Linux, Windows and net administration**, but also **Bash and Perl** scripting.  
 That led me to [have been working as an IT technician and administrator](#it_admin) for 4 years.
 
-After this job I spent several years working as a marine surveyor, like charting seabeds or supporting marine projects development - oil & gas, wind farms, telecomunications...  
+I then spent several years working as a marine surveyor, like charting seabeds or supporting marine projects development - oil & gas, wind farms, telecomunications...  
 I also owned a restaurant in the Canary Island for a year.  
 During these years I **self learned** new skills, among many, **VBA, Python, SQL (M$ Access) and GIS**.
 
