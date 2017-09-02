@@ -70,20 +70,20 @@ Others tasks I had the opportunity to manage were setting up, maintain and manag
 
 ***  
 ### <a name="projects">Projects & Code</a>
-#### After Makers Academy Projects
+#### After Makers Academy Projects (2017)
 | Project | Description | Code/Demo Links | Technologies Used | 
 |----------------|---------------------------------------------------------------------------|------------------------------------------------|-------------------------------------------------| 
 | Tip the Waiter | Companion app for a board game demostration | [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][9] | NodeJS, ReactJS, Jest, ExpressJS |
 | Zombie Apocalypse | Mini First Person VR Shooter made in less than 24 hours for the VR Game Jam Hackathon | [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][8] | HTML5, Javascript and A-Frame |
 
-#### Makers Academy Projects
+#### Makers Academy Projects (2017)
 | Project | Description | Code/Demo Links | Technologies Used | 
 |----------------|---------------------------------------------------------------------------|------------------------------------------------|-------------------------------------------------| 
 | Notes | A single page web app where **me and a colleague created our own testing framework** | [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][4] | NodeJS, CadillacJS (in-house testing framework) | 
 | Emotify | Find out your crowd emotions! Our final 2 weeks project at Makers Academy | [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][3] | NodeJS, ReactJS, Jest, ExpressJS | 
 | Fix City | A web app to report problems to your local council, build in a week | [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][7] | Ruby on Rails, Rspec, Capybara | 
 
-#### Old Projects
+#### Older Projects
 | Project                            | Description                                                                                                                                                                          | Code/Demo Links | Technologies Used              | Year | 
 |------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|--------------------------------|------| 
 | Offshore CV | A DB to easily update my work experience producing statistics on work type and equipment used | [![Send Request](https://raw.githubusercontent.com/mrenrich84/CV/master/img/send-request.png)][10] | Ms Access, VBA | 2014 | 
