@@ -74,7 +74,7 @@ Others tasks I had the opportunity to manage were setting up, maintain and manag
 | Project | Description | Code/Demo Links | Technologies Used | 
 |----------------|---------------------------------------------------------------------------|------------------------------------------------|-------------------------------------------------| 
 | Tip the Waiter | Companion app for a board game demostration | [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][9] | NodeJS, ReactJS, Jest, ExpressJS |
-| Zombie Apocalypse | Mini First Person Shooter made in less than 24 hours for the VR Game Jam Hackathon | [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][8] | HTML5, Javascript and A-Frame |
+| Zombie Apocalypse | Mini First Person VR Shooter made in less than 24 hours for the VR Game Jam Hackathon | [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][8] | HTML5, Javascript and A-Frame |
 
 #### Makers Academy Projects
 | Project | Description | Code/Demo Links | Technologies Used | 
