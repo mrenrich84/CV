@@ -86,9 +86,9 @@ Others tasks I had the opportunity to manage were setting up, maintain and manag
 #### Old Projects
 | Project                            | Description                                                                                                                                                                          | Code/Demo Links | Technologies Used              | Year | 
 |------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|--------------------------------|------| 
-| Offshore CV | A DB to easily update my work experience producing statistics on work type and equipment used | [![Send Request](https://raw.githubusercontent.com/mrenrich84/CV/master/img/send-request.png) On request!][10] | Ms Access, VBA | 2014 | 
-| CTD form | Automatize processing and reporting of CTD probes. | [![Send Request](https://raw.githubusercontent.com/mrenrich84/CV/master/img/send-request.png) On request!][10] | Excel, VBA | 2012 | 
-| Geoteam Office Server Installation | Debian server offering file sharing with automatic backup and VPN access | [![Send Request](https://raw.githubusercontent.com/mrenrich84/CV/master/img/send-request.png) On request!][10] | Debian, Samba, Hamachi | 2010 | 
+| Offshore CV | A DB to easily update my work experience producing statistics on work type and equipment used | [![Send Request](https://raw.githubusercontent.com/mrenrich84/CV/master/img/send-request.png)][10] | Ms Access, VBA | 2014 | 
+| CTD form | Automatize processing and reporting of CTD probes. | [![Send Request](https://raw.githubusercontent.com/mrenrich84/CV/master/img/send-request.png)][10] | Excel, VBA | 2012 | 
+| Geoteam Office Server Installation | Debian server offering file sharing with automatic backup and VPN access | [![Send Request](https://raw.githubusercontent.com/mrenrich84/CV/master/img/send-request.png)][10] | Debian, Samba, Hamachi | 2010 | 
 
 ***  
 ### Education
@@ -176,8 +176,8 @@ Sports: football, surf, American football
 ***
 
 ### <a name="contact">Contact</a>
-- [Github][1]
-- [Codewars][2]
+- [Github: https://github.com/mrenrich84][1]
+- [Codewars: https://www.codewars.com/users/mrenrich84][2]
 
 
 [1]: https://github.com/mrenrich84
