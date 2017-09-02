@@ -88,7 +88,7 @@ Others tasks I had the opportunity to manage were setting up, maintain and manag
 |------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|--------------------------------|------| 
 | Offshore CV | A DB to easily update my work experience producing statistics on work type and equipment used | [![Send Request](https://raw.githubusercontent.com/mrenrich84/CV/master/img/send-request.png)][10] | Ms Access, VBA | 2014 | 
 | CTD form | Automatize processing and reporting of CTD probes. | [![Send Request](https://raw.githubusercontent.com/mrenrich84/CV/master/img/send-request.png)][10] | Excel, VBA | 2012 | 
-| Geoteam Office Server Installation | Debian server offering file sharing with automatic backup and VPN access | [![Send Request](https://raw.githubusercontent.com/mrenrich84/CV/master/img/send-request.png)][10] | Debian, Samba, Hamachi | 2010 | 
+| Geoteam Office Server Installation Report | Debian server offering file sharing with automatic backup, MySQL service and VPN access | [![Send Request](https://raw.githubusercontent.com/mrenrich84/CV/master/img/send-request.png)][10] | Debian, Samba, Hamachi | 2010 | 
 
 ***  
 ### Education
