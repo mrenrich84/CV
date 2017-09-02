@@ -8,7 +8,7 @@ I'm Enrico, a **Full Stack Junior Developer** with strong IT and scientific back
 
 I have a mixed, bold, love-hate feeling for **NodeJS**, especially when writing (and testing!) **ReactJS** - **API** coding with **TDD** IS just fun!  
 I am very fascinated by the **OOA&D, SOLID, TDD and "beatiful code"** subjects.  
-I have some knowledge in **HTML5 and CSS3**, experience with other languages such as **Python**, **VBA** and **Ruby** and also a **solid experience working with IT administration, GIS, SQL and DB analysis**.
+I have some knowledge in **HTML5 and CSS3**, experience with other languages such as **Python**, **VBA** and **Ruby** and also a **solid experience working with IT administration, GIS, SQL** and doing **DB analysis**.
 
 I am a very relaxed and easy going person, looking forward to work in an **Agile** environment.
 ***
@@ -74,7 +74,7 @@ Others tasks I had the opportunity to manage were setting up, maintain and manag
 #### After Makers Academy Projects (2017)
 | Project | Description | Code | Technologies Used | 
 |----------------|---------------------------------------------------------------------------|------------------------------------------------|-------------------------------------------------| 
-| Tip the Waiter | Companion app for a board game demostration | [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][9] | NodeJS, ReactJS, Jest, ExpressJS |
+| Tip the Waiter | Companion app for a board game demo | [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][9] | NodeJS, ReactJS, Jest, ExpressJS |
 | Zombie Apocalypse | Mini First Person VR Shooter made in less than 24 hours for the VR Game Jam Hackathon | [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][8] | HTML5, Javascript and A-Frame |
 
 #### Makers Academy Projects (2017)
