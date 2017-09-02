@@ -148,7 +148,7 @@ While a consultant worked for subcontractors of BP, Shell, Statoil, Dong, Alcate
 Duties & Responsibilities:
 - Engineering vessels: cablings; equipment installation, testing and calibration, troubleshooting; manage shippings
 - Data collection: acquiring sensor data through specialised software for several projects: hydrography and seismic surveys; vessel, features, divers and ROV positioning
-- Processing of data collected with specialised software, Ms Office, Autocad and GIS, mainly using statistical method
+- Processing of data collected with specialised software, Ms Office, Autocad and GIS, mainly using statistical methodologies
 - Reporting and QC using Ms Office
 - Writing small script with VBA, Perl and Python
 
@@ -160,7 +160,7 @@ Duties & Responsibilities:
 - Designed and developed office IT: 
   - hardware infrastructure
   - server: Debian with user and group based access using Samba and MySQL
-  - clients: Windows XP machines interfaced with the server and Ms Office integrated with MySQL
+  - clients: Windows XP machines interfaced with the Debian server and Ms Office integrated with MySQL
 - Writing reports and technical support
 - Demonstrated an integration between AutoCAD and PostgreSQL GIS for saving the company from spending an unnecessary amount of money on other technologies
 - Cracked network and systems, collecting managers' passwords and sensible data to demonstrate the need for a budget increase in the IT department
