@@ -66,8 +66,8 @@ During my career, I used this skill to create several tools, like automating pro
 As an hydrographic (marine) surveyor consultant, my job is  mostly 6-6 or 12-12 day/night shifts, 7 days a week, usually 4 weeks on/off - flying somewhere in the world and work on new vessels, people, equipment, projects...  
 
 My position is at an high profile.  
-On a project, the vessel was due to collect precedently identified unexploded ordnances (UXO) from WW2 - my responsibilities were to manage highly sensible GPS and subsea positioning equipment for supporting UXOs recovering.  
-Others tasks I had the opportunity to manage were setting up, maintain and manage positioning systems for correctly approach structures such as oil rigs or coordinate underwater activities between divers and ROV.  
+On a project, my responsibilities were to manage highly accurate GPS and subsea positioning equipment for supporting the recovering of WW2 unexploded ordnances (UXO) in Germany.
+Others tasks I had the opportunity to manage were setting up, maintain and manage positioning systems for the development of offshore structures such as oil rigs and wind turbines or coordinate underwater activities between divers and subsea unmanned vehicles (ROV).  
 
 ***  
 ### <a name="projects">Projects & Code</a>
