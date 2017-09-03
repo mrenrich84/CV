@@ -1,5 +1,5 @@
 # Enrico Graziani
-[About me](#about_me) | [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact)  
+[About me](#about_me) | [Bio](#bio) | [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact)  
 ***
 ### <a name="about_me">About me</a>
 Hey :)
@@ -12,7 +12,7 @@ I have some knowledge in **HTML5 and CSS3**, experience with other languages suc
 
 I am a very relaxed and easy going person, looking forward to work in an **Agile** environment.
 ***
-### <a name="history">Bio</a>  
+### <a name="bio">Bio</a>  
 
 In my early 20s, for personal amusement, I **self-taught** myself **Linux, Windows and net administration**, but also **Bash and Perl** scripting.  
 That led me to [have been working as an IT technician and administrator](#it_admin) for 4 years.
@@ -29,13 +29,13 @@ Now I'm **looking for a great team** of people which will help me in **improving
 
 ***  
 ### Skills
-- **Self-improvement and feedback-taker**
+- **Self-improver and feedback-taker**
 - **Analytical thinker and fast problem solver**
 - **Charmed by coding and fast learner**
 - **Thrives under pressure and high responsibility**
 
 ***
-#### Self improvement and feedback-taker
+#### Self-improver and feedback-taker
 
 I can fail, I can be wrong, I am human and so prone to errors: everyone of them is a lesson and chances of improvement. 
 That's why I'm always open for feedback.  
