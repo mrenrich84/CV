@@ -40,7 +40,7 @@ Now I'm **looking for a great team** of people which will help me in **improving
 I can fail, I can be wrong, I am human and so prone to errors: everyone of them is a lesson and chances of improvement. 
 That's why I'm always open for feedback.  
 
-During the course, I asked for feedback to all my colleagues.  
+During the bootcamp, in a particoular occasion, I wasn't sure in a feedback that I was given so I asked all my cohort mates to give me one.  
 Some replied that had difficulties working with me because I was patronising them.  
 This was difficult to hear, but I am very grateful because from their comment I was able to improve myself.  
 
