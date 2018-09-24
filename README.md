@@ -127,10 +127,21 @@ Fluent in both English and Spanish
 
 | COMPANY                 | PERIOD            | POSITION                                                             |         
 |-------------------------|-------------------|----------------------------------------------------------------------|         
+| BBC                     | 10-2017 - Now      | Junior Software Engineer                                          |         
 | Pizzeria da Fabbio      | 09-2014 - 08-2015 | Restaurant Owner & Manager                                           |         
 | Consultant              | 08-2010 – 2015    | Senior Hydrographic Surveyor, Survey Engineer                        |         
 | Geoteam srl, Rome       | 04-2008 – 07-2010 | Hydrographic Surveyor, Assistant Survey Engineer, IT Administrator   |         
 | Microbusiness srl, Rome | 01-2006 – 03-2008 | IT Technician                                                        |         
+
+#### BBC: Junior Software Engineer (10-2017 - Now)  
+
+Duties & Responsibilities:
+- Develop, review and support software
+- Create and manage test automatization for code quality
+- Manage the software CI/CD cycle
+- Integrate the software with monitoring and support tools
+- Contribute to projects delivery via partecipation in the team's agile planning and delivery process
+- Contribute to technical documentation
 
 #### Pizzeria da Fabbio: Owner – Restaurant Manager (09-2014 - 08-2015)  
 
