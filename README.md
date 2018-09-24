@@ -162,10 +162,11 @@ Duties & Responsibilities:
 ***  
 ### <a name="interests">Interests</a>
 
-Computer gaming, tech stuff and all that is geeky!  
-Music, photography and video making  
-Traveling  
-Sports: football, surf, American football  
+Computer gaming, tech stuff and all that is geeky!
+Books and movies
+Music, traveling
+Photography and video making
+Sports: football, surf, American football
 
 ***
 
