@@ -4,28 +4,27 @@
 ### <a name="about_me">About me</a>
 Hey :)
 
-I'm Enrico, a **Full Stack Junior Developer** with strong IT and scientific background and some management experience.  
+I'm Enrico, a **Full Stack Software Developer** with strong IT and scientific background and some management experience.  
 
-I have a mixed, bold, love-hate feeling for **NodeJS**, especially when writing (and testing!) **ReactJS** - **API** coding with **TDD** IS just fun!  
+I have experience developing software at commercial level in **Java (Spring), NodeJS (ReactJS), Ruby (Cucumber) and Python (for toolings like AWS SDK or Troposphere)**.
 I am very fascinated by the **OOA&D, SOLID, TDD and "beatiful code"** subjects.  
-I have some knowledge in **HTML5 and CSS3**, experience with other languages such as **Python**, **VBA** and **Ruby** and also a **solid experience working with IT administration, GIS, SQL** and doing **DB analysis**.
+I have also a **solid experience working with IT administration, GIS, SQL** and doing **DB analysis**.
 
-I am a very relaxed and easy going person, looking forward to work in an **Agile** environment.
+I am a very **relaxed** and **positive** person, always throwing **solutions** rather than problems.
 ***
 ### <a name="bio">Bio</a>  
 
 In my early 20s, for personal amusement, I **self-taught** myself **Linux, Windows and net administration**, but also **Bash and Perl** scripting.  
 That led me to [have been working as an IT technician and administrator](#it_admin) for 4 years.
 
-I then spent several years working as a marine surveyor, like charting seabeds or supporting marine projects development - oil & gas, wind farms, telecomunications...  
-I also owned a restaurant in the Canary Island for a year.  
+Then, I spent several years working as a marine surveyor,  charting seabeds or supporting marine projects development - oil & gas, wind farms, telecomunications...  
+Meanwhile, I also owned a restaurant in the Canary Island for a year.  
 During these years I **self learned** new skills, among many, **VBA, Python, SQL (M$ Access) and GIS**.
 
-I then went to the **bootcamp** of this amazing organization which is **Makers Academy** where I graduated on March 2017.  
+Eventually I decided to change career and went to the **bootcamp** of this amazing organization which is **Makers Academy** where I graduated on March 2017.  
 There, I was amused by lots of amazing coding techniques: **TDD, SOLID, software craftsmanship and clean code** but also **Agile** development - while we were playing with **HTML5, CSS3, Ruby and Javascript**.
 
-Now I'm **looking for a great team** of people which will help me in **improving my knowledge** and **become a great Software Craftsman**, hoping to put my expertise at best use for our clients!
-
+Finally, I started my adventure at **BBC Media Services** as a **Software Engineer** on the October 2017, where I still am now!
 
 ***  
 ### Skills
