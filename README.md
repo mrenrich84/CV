@@ -6,7 +6,12 @@ Hey :)
 
 I'm Enrico, a **Full Stack Software Developer** with strong IT and scientific background and some management experience.  
 
-I have experience developing software at commercial level in **Java (Spring), NodeJS (ReactJS), Ruby (Cucumber) and Python (for toolings like AWS SDK or Troposphere)**.
+I have experience developing software at commercial level in:
+- Java (Spring),
+- NodeJS (ReactJS),
+- Ruby (Cucumber)
+- and Python (for toolings like AWS SDK or Troposphere).
+
 I am very fascinated by the **OOA&D, SOLID, TDD and "beatiful code"** subjects.  
 I have also a **solid experience working with IT administration, GIS, SQL** and doing **DB analysis**.
 
